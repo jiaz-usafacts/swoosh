@@ -3,10 +3,20 @@
 
 <!-- Load d3.js -->
 <script src="https://d3js.org/d3.v6.js"></script>
+<style>
+	#chart{
+		/*position:absolute;
+		top:10px;*/
+		z-index:1;
+	}
+	#colorKey{
+		z-index:2;
+	}
+	</style>
 
 <!-- Create a div where the graph will take place -->
-<div id="colorKey"></div>
-<div id="my_dataviz"></div>
+<div id="colorKey">this uses 2019 citizens 18+ ACS data, not available for many geos<br></div>
+<div id="chart"></div>
 <script>
 
 // city.csv
@@ -27,10 +37,10 @@
 	
 const margin = {top: 10, right: 30, bottom: 30, left: 60},
     width = 1600 - margin.left - margin.right,
-    height = 800 - margin.top - margin.bottom;
+    height = 700 - margin.top - margin.bottom;
 
 // append the svg object to the body of the page
-const svg = d3.select("#my_dataviz")
+const svg = d3.select("#chart")
   .append("svg")
     .attr("width", width + margin.left + margin.right)
     .attr("height", height + margin.top + margin.bottom)
@@ -39,7 +49,7 @@ const svg = d3.select("#my_dataviz")
 
 //Read the data
 
-		var yScale = d3.scaleSqrt().domain([0,7774570]).range([0,height])
+		var yScale = d3.scaleSqrt().domain([0,8000000]).range([0,height])
 		var xScale = d3.scaleLinear().domain([0,3]).range([0,width-600])
 	
 	files = ["places_s.csv","schoolDistrict_s.csv","county_s.csv","congress_s.csv","countySubdivision_s.csv"]
@@ -47,41 +57,42 @@ const svg = d3.select("#my_dataviz")
 	Promise.all([d3.csv("places_s.csv"), d3.csv("schoolDistrict_s.csv"),d3.csv("county_s.csv"),d3.csv("congress_s.csv"),d3.csv("countySubdivision_s.csv")])
 	.then(function(d){
 		
+		
+		var yAxis = d3.axisRight().scale(yScale)//.ticks(8)
+		//.tickValues([0,50000,100000,1000000,200000,300000,400000,500000,6000000,8000000])
+		svg.append("g").call(yAxis).attr("transform","translate("+xScale(3)+",0)")
+		
 		for(var dataset in d){
 			
 			var color = colors[dataset]
-			
-			d3.select("#colorKey").append("div").html(files[dataset]).style("color",color)
+			var className = files[dataset].replace(".csv","")
+			d3.select("#colorKey").append("div").html(files[dataset])
+			.style("background-color",color)
+			.style("color","white").style("padding","10px")
 			.style("display","inline-block")
-			.style("margin","15px")
+			.style("margin","5px")
+			.attr("id",className)
+			.on("mouseover",function(){
+				var currentClass = d3.select(this).attr("id")
+				d3.selectAll("."+currentClass).attr("opacity",1)
+			})
+			.on("mouseout",function(){
+				var currentClass = d3.select(this).attr("id")
+				d3.selectAll("."+currentClass).attr("opacity",.05)
+			})
 			var layerData = d[dataset]
-			console.log(layerData)
+			
 			for(var e in layerData){
 				var pop = layerData[e].pop
 				var placeName = layerData[e].name
 				var geoid = layerData[e].geoid
 				var lineData = [[0,400],[1,400],[2,yScale(pop)],[3,yScale(pop)]]
-				drawLine(lineData,svg,color,pop,placeName,geoid)
+				drawLine(lineData,svg,color,pop,placeName,geoid,className)
 			}
 		}
-				//
-		// var placesData = d[0]
-		// for(var r in placesData){
-		// 	var pop = placesData[r].pop
-		// 	var lineData = [[0,0],[1,pop*.2],[2,pop]]
-		// 	drawLine(lineData,svg,"black")
-		// }
-		//
-		// var schoolData = d[1]
-		// for(var r in schoolData){
-		// 	var pop = schoolData[r].pop
-		// 	var lineData = [[0,0],[1,pop*.2],[2,pop]]
-		// 	drawLine(lineData,svg,"red")
-		// }
-
 })
 
-function drawLine(lineData,svg,color,pop,placeName,geoid){
+function drawLine(lineData,svg,color,pop,placeName,geoid,className){
 	// Add the line
 	
   var Gen = d3.line()
@@ -99,12 +110,13 @@ function drawLine(lineData,svg,color,pop,placeName,geoid){
 	.attr("opacity",0)
 	
 	svg.append("path")
+	.attr("class",className)
 	  .datum(lineData)
 	  .attr("fill", "none")
 	.attr("id","geoid_"+geoid)
 	  .attr("stroke", color)
 		.attr("opacity",.05)
-	  .attr("stroke-width", 8)
+	  .attr("stroke-width", 2)
 	.attr("stroke-linecap","round")
 	  .attr("d", d3.line().curve(d3.curveBasis)
 	    .x(function(d) { return xScale(d[0])})
