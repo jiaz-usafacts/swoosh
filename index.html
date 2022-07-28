@@ -116,7 +116,7 @@ function drawLine(lineData,svg,color,pop,placeName,geoid,className){
 	.attr("id","geoid_"+geoid)
 	  .attr("stroke", color)
 		.attr("opacity",.05)
-	  .attr("stroke-width", 2)
+	  .attr("stroke-width", 4)
 	.attr("stroke-linecap","round")
 	  .attr("d", d3.line().curve(d3.curveBasis)
 	    .x(function(d) { return xScale(d[0])})
