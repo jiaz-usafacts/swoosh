@@ -1,0 +1,883 @@
+geoid,name,pop
+9700000US0100007,"Hoover City School District, Alabama",62773
+9700000US0100210,"Auburn City School District, Alabama",49109
+9700000US0100270,"Baldwin County School District, Alabama",171344
+9700000US0100390,"Birmingham City School District, Alabama",164123
+9700000US0101020,"Cullman County School District, Alabama",51415
+9700000US0101230,"Dothan City School District, Alabama",52247
+9700000US0101290,"Elmore County School District, Alabama",56475
+9700000US0101800,"Huntsville City School District, Alabama",154975
+9700000US0101920,"Jefferson County School District, Alabama",168294
+9700000US0102220,"Madison County School District, Alabama",96198
+9700000US0102370,"Mobile County School District, Alabama",288958
+9700000US0102430,"Montgomery County School District, Alabama",160180
+9700000US0103030,"Shelby County School District, Alabama",97333
+9700000US0103360,"Tuscaloosa City School District, Alabama",81219
+9700000US0103390,"Tuscaloosa County School District, Alabama",80099
+9700000US0200180,"Anchorage School District, Alaska",209427
+9700000US0200510,"Matanuska-Susitna Borough School District, Alaska",78527
+9700000US0200600,"Fairbanks North Star Borough School District, Alaska",72121
+9700000US0400001,"Cave Creek Unified District, Arizona",56180
+9700000US0400295,"Kingman Unified School District, Arizona",60640
+9700000US0400680,"Amphitheater Unified District, Arizona",108707
+9700000US0400790,"Apache Junction Unified District, Arizona",57873
+9700000US0401870,"Chandler Unified District, Arizona",175944
+9700000US0402690,"Dysart Unified District, Arizona",135621
+9700000US0402860,"Flagstaff Unified District, Arizona",80606
+9700000US0402920,"Florence Unified School District, Arizona",81316
+9700000US0403400,"Gilbert Unified District, Arizona",144223
+9700000US0403780,"Higley Unified District, Arizona",58147
+9700000US0404630,"Marana Unified District, Arizona",75142
+9700000US0404970,"Mesa Unified District, Arizona",358707
+9700000US0405930,"Paradise Valley Unified District, Arizona",196644
+9700000US0406250,"Peoria Unified School District, Arizona",174553
+9700000US0407570,"Scottsdale Unified District, Arizona",197313
+9700000US0407750,"Deer Valley Unified District, Arizona",187205
+9700000US0408170,"Sunnyside Unified District, Arizona",58918
+9700000US0408800,"Tucson Unified District, Arizona",358609
+9700000US0408850,"Vail Unified District, Arizona",47250
+9700000US0503060,"Bentonville Public Schools, Arkansas",72508
+9700000US0504590,"Conway Public Schools, Arkansas",63668
+9700000US0506120,"Fayetteville School District, Arkansas",74371
+9700000US0506330,"Fort Smith Public Schools, Arkansas",63551
+9700000US0509000,"Little Rock School District, Arkansas",128416
+9700000US0511850,"Pulaski County Special School District, Arkansas",99045
+9700000US0511970,"Rogers Public Schools, Arkansas",62108
+9700000US0512660,"Springdale School District, Arkansas",60974
+9700000US0600013,"Rocklin Unified School District, California",46356
+9700000US0600014,"Hesperia Unified School District, California",65803
+9700000US0600016,"Upland Unified School District, California",58887
+9700000US0600017,"Apple Valley Unified School District, California",54203
+9700000US0600020,"Pleasanton Unified School District, California",49834
+9700000US0600027,"Lake Elsinore Unified School District, California",86049
+9700000US0600028,"Temecula Valley Unified School District, California",111490
+9700000US0600029,"Murrieta Valley Unified School District, California",84836
+9700000US0600032,"Redondo Beach Unified School District, California",47480
+9700000US0600036,"Natomas Unified School District, California",58754
+9700000US0600047,"Tracy Unified School District, California",53781
+9700000US0600153,"Alhambra Unified School District, California",74834
+9700000US0600158,"Turlock Unified School District, California",49741
+9700000US0601332,"Twin Rivers Unified School District, California",114728
+9700000US0601414,"Santa Barbara Unified School District, California",59234
+9700000US0601620,"ABC Unified School District, California",70975
+9700000US0601770,"Alameda City Unified School District, California",54619
+9700000US0602430,"Alvord Unified School District, California",81680
+9700000US0602850,"Antioch Unified School District, California",82060
+9700000US0603600,"Azusa Unified School District, California",45731
+9700000US0603690,"Baldwin Park Unified School District, California",44068
+9700000US0604290,"Beaumont Unified School District, California",45574
+9700000US0604440,"Bellflower Unified School District, California",54625
+9700000US0604740,"Berkeley Unified School District, California",92668
+9700000US0606450,"Burbank Unified School District, California",75171
+9700000US0607440,"Capistrano Unified School District, California",257618
+9700000US0607500,"Carlsbad Unified School District, California",59421
+9700000US0607970,"Central Unified School District, California",54153
+9700000US0608370,"Chico Unified School District, California",97417
+9700000US0608460,"Chino Valley Unified School District, California",139666
+9700000US0609030,"Clovis Unified School District, California",155989
+9700000US0609070,"Coachella Valley Unified School District, California",56615
+9700000US0609390,"Colton Joint Unified School District, California",76454
+9700000US0609620,"Compton Unified School District, California",82145
+9700000US0609640,"Conejo Valley Unified School District, California",92258
+9700000US0609850,"Corona-Norco Unified School District, California",197496
+9700000US0610050,"Covina-Valley Unified School District, California",50194
+9700000US0610620,"Davis Joint Unified School District, California",57939
+9700000US0611110,"Desert Sands Unified School District, California",147064
+9700000US0611460,"Downey Unified School District, California",75487
+9700000US0612330,"Elk Grove Unified School District, California",234365
+9700000US0613360,"Fairfield-Suisun Unified School District, California",93847
+9700000US0613890,"Folsom-Cordova Unified School District, California",90265
+9700000US0613920,"Fontana Unified School District, California",101885
+9700000US0614400,"Fremont Unified School District, California",141871
+9700000US0614550,"Fresno Unified School District, California",233193
+9700000US0614880,"Garden Grove Unified School District, California",175720
+9700000US0615180,"Gilroy Unified School District, California",36045
+9700000US0615240,"Glendale Unified School District, California",142437
+9700000US0616325,"Hacienda La Puente Unified School District, California",75803
+9700000US0616740,"Hayward Unified School District, California",121388
+9700000US0616920,"Hemet Unified School District, California",101809
+9700000US0618390,"Inglewood Unified School District, California",71244
+9700000US0619260,"Jurupa Unified School District, California",56233
+9700000US0621000,"Las Virgenes Unified School District, California",48984
+9700000US0622110,"Livermore Valley Joint Unified School District, California",63262
+9700000US0622230,"Lodi Unified School District, California",111417
+9700000US0622500,"Long Beach Unified School District, California",351400
+9700000US0622710,"Los Angeles Unified School District, California",2908314
+9700000US0623080,"Lucia Mar Unified School District, California",60529
+9700000US0623160,"Lynwood Unified School District, California",32827
+9700000US0623340,"Madera Unified School District, California",44753
+9700000US0623610,"Manteca Unified School District, California",96788
+9700000US0624500,"Milpitas Unified School District, California",55686
+9700000US0625470,"Montebello Unified School District, California",88840
+9700000US0625530,"Monterey Peninsula Unified School District, California",65263
+9700000US0625800,"Moreno Valley Unified School District, California",111196
+9700000US0625830,"Morgan Hill Unified School District, California",45838
+9700000US0625860,"Morongo Unified School District, California",52079
+9700000US0626370,"Mount Diablo Unified School District, California",179894
+9700000US0626640,"Napa Valley Unified School District, California",82221
+9700000US0626910,"New Haven Unified School District, California",51643
+9700000US0627240,"Newport-Mesa Unified School District, California",134699
+9700000US0627690,"Norwalk-La Mirada Unified School District, California",83274
+9700000US0627720,"Novato Unified School District, California",47968
+9700000US0628050,"Oakland Unified School District, California",296668
+9700000US0628250,"Oceanside Unified School District, California",92322
+9700000US0628650,"Orange Unified School District, California",155771
+9700000US0629490,"Pajaro Valley Joint Unified School District, California",70177
+9700000US0629550,"Palm Springs Unified School District, California",123527
+9700000US0629610,"Palo Alto Unified School District, California",56867
+9700000US0629850,"Paramount Unified School District, California",44004
+9700000US0629940,"Pasadena Unified School District, California",146366
+9700000US0630660,"Placentia-Yorba Linda Unified School District, California",114161
+9700000US0631320,"Pomona Unified School District, California",103806
+9700000US0631530,"Poway Unified School District, California",138988
+9700000US0632070,"Redlands Unified School District, California",95420
+9700000US0632370,"Rialto Unified School District, California",74346
+9700000US0632550,"West Contra Costa Unified School District, California",159688
+9700000US0633150,"Riverside Unified School District, California",179790
+9700000US0633750,"Rowland Unified School District, California",65091
+9700000US0633840,"Sacramento City Unified School District, California",243774
+9700000US0633860,"Saddleback Valley Unified School District, California",159326
+9700000US0634170,"San Bernardino City Unified School District, California",156944
+9700000US0634320,"San Diego City Unified School District, California",792116
+9700000US0634410,"San Francisco Unified School District, California",662741
+9700000US0634590,"San Jose Unified School District, California",176379
+9700000US0634620,"San Juan Unified School District, California",250143
+9700000US0634680,"San Leandro Unified School District, California",49277
+9700000US0634710,"San Lorenzo Unified School District, California",54704
+9700000US0634800,"San Luis Coastal Unified School District, California",81288
+9700000US0634880,"San Marcos Unified School District, California",88513
+9700000US0635130,"San Ramon Valley Unified School District, California",103572
+9700000US0635310,"Santa Ana Unified School District, California",140025
+9700000US0635430,"Santa Clara Unified School District, California",92489
+9700000US0635700,"Santa Monica-Malibu Unified School District, California",83385
+9700000US0636840,"Simi Valley Unified School District, California",96294
+9700000US0637530,"South San Francisco Unified School District, California",61155
+9700000US0638010,"Stockton Unified School District, California",120794
+9700000US0639420,"Torrance Unified School District, California",99889
+9700000US0640150,"Tustin Unified School District, California",87176
+9700000US0640590,"Vacaville Unified School District, California",59109
+9700000US0640740,"Vallejo City Unified School District, California",87975
+9700000US0640980,"Ventura Unified School District, California",91580
+9700000US0641160,"Visalia Unified School District, California",101568
+9700000US0641190,"Vista Unified School District, California",109432
+9700000US0643080,"Woodland Joint Unified School District, California",48013
+9700000US0643470,"Yuba City Unified School District, California",50679
+9700000US0684500,"Irvine Unified School District, California",160660
+9700000US0691135,"Val Verde Unified School District, California",54321
+9700000US0801920,"Academy School District 20, Colorado",86402
+9700000US0802340,"Adams-Arapahoe School District 28J, Colorado",143745
+9700000US0802490,"Boulder Valley School District RE-2, Colorado",183155
+9700000US0802580,"School District 27J, Colorado",69408
+9700000US0802910,"Cherry Creek School District 5, Colorado",226516
+9700000US0803060,"Colorado Springs School District 11, Colorado",191186
+9700000US0803360,"Denver County School District 1, Colorado",541386
+9700000US0803450,"Douglas County School District RE-1, Colorado",253877
+9700000US0803870,"El Paso County School District 49, Colorado",69765
+9700000US0803990,"Poudre School District R-1, Colorado",173248
+9700000US0804350,"Mesa County Valley School District 51, Colorado",114873
+9700000US0804410,"Greeley School District 6, Colorado",87389
+9700000US0804530,"Harrison School District 2, Colorado",58063
+9700000US0804800,"Jefferson County School District R-1, Colorado",461009
+9700000US0805310,"Littleton School District 6, Colorado",78343
+9700000US0805370,"St. Vrain Valley School District RE 1J, Colorado",135529
+9700000US0805400,"Thompson School District R-2J, Colorado",97469
+9700000US0806120,"Pueblo City School District 60, Colorado",84989
+9700000US0806900,"Adams 12 Five Star Schools, Colorado",167383
+9700000US0807230,"Westminster Public School District, Colorado",50044
+9700000US0900450,"Bridgeport School District, Connecticut",85679
+9700000US0901020,"Danbury School District, Connecticut",56977
+9700000US0901920,"Hartford School District, Connecticut",79955
+9700000US0902670,"New Britain School District, Connecticut",51589
+9700000US0902790,"New Haven School District, Connecticut",89986
+9700000US0903090,"Norwalk School District, Connecticut",60668
+9700000US0904320,"Stamford School District, Connecticut",80714
+9700000US0904830,"Waterbury School District, Connecticut",75084
+9700000US1000200,"Christina School District, Delaware",127354
+9700000US1000230,"Colonial School District, Delaware",65999
+9700000US1000680,"Indian River School District, Delaware",70516
+9700000US1001240,"Brandywine School District, Delaware",69233
+9700000US1001300,"Red Clay Consolidated School District, Delaware",95932
+9700000US1100030,"District of Columbia Public Schools, District of Columbia",536768
+9700000US1200030,"Alachua County School District, Florida",206052
+9700000US1200090,"Bay County School District, Florida",134621
+9700000US1200150,"Brevard County School District, Florida",477843
+9700000US1200180,"Broward County School District, Florida",1308132
+9700000US1200240,"Charlotte County School District, Florida",159653
+9700000US1200270,"Citrus County School District, Florida",126179
+9700000US1200300,"Clay County School District, Florida",165315
+9700000US1200330,"Collier County School District, Florida",274748
+9700000US1200360,"Columbia County School District, Florida",54632
+9700000US1200390,"Dade County School District, Florida",1625606
+9700000US1200480,"Duval County School District, Florida",699932
+9700000US1200510,"Escambia County School District, Florida",244023
+9700000US1200540,"Flagler County School District, Florida",92260
+9700000US1200810,"Hernando County School District, Florida",155115
+9700000US1200840,"Highlands County School District, Florida",82330
+9700000US1200870,"Hillsborough County School District, Florida",1021724
+9700000US1200930,"Indian River County School District, Florida",124090
+9700000US1201050,"Lake County School District, Florida",282301
+9700000US1201080,"Lee County School District, Florida",584536
+9700000US1201110,"Leon County School District, Florida",228515
+9700000US1201230,"Manatee County School District, Florida",308838
+9700000US1201260,"Marion County School District, Florida",290488
+9700000US1201290,"Martin County School District, Florida",126570
+9700000US1201320,"Monroe County School District, Florida",58011
+9700000US1201350,"Nassau County School District, Florida",69424
+9700000US1201380,"Okaloosa County School District, Florida",154994
+9700000US1201440,"Orange County School District, Florida",958522
+9700000US1201470,"Osceola County School District, Florida",245270
+9700000US1201500,"Palm Beach County School District, Florida",1047506
+9700000US1201530,"Pasco County School District, Florida",423700
+9700000US1201560,"Pinellas County School District, Florida",777991
+9700000US1201590,"Polk County School District, Florida",535299
+9700000US1201620,"Putnam County School District, Florida",56375
+9700000US1201650,"Santa Rosa County School District, Florida",141690
+9700000US1201680,"Sarasota County School District, Florida",354071
+9700000US1201710,"Seminole County School District, Florida",348809
+9700000US1201740,"St. Johns County School District, Florida",201647
+9700000US1201770,"St. Lucie County School District, Florida",242735
+9700000US1201800,"Sumter County School District, Florida",120663
+9700000US1201920,"Volusia County School District, Florida",442483
+9700000US1201980,"Walton County School District, Florida",56996
+9700000US1300001,"Troup County School District, Georgia",52264
+9700000US1300120,"Atlanta City School District, Georgia",394944
+9700000US1300290,"Barrow County School District, Georgia",59762
+9700000US1300330,"Bartow County School District, Georgia",62317
+9700000US1300420,"Bibb County School District, Georgia",113115
+9700000US1300630,"Bulloch County School District, Georgia",62609
+9700000US1300840,"Carroll County School District, Georgia",67332
+9700000US1300930,"Catoosa County School District, Georgia",51810
+9700000US1301020,"Chatham County School District, Georgia",220481
+9700000US1301110,"Cherokee County School District, Georgia",183825
+9700000US1301170,"Clarke County School District, Georgia",99653
+9700000US1301230,"Clayton County School District, Georgia",192381
+9700000US1301290,"Cobb County School District, Georgia",479884
+9700000US1301410,"Columbia County School District, Georgia",115224
+9700000US1301500,"Coweta County School District, Georgia",109457
+9700000US1301740,"DeKalb County School District, Georgia",486854
+9700000US1301830,"Dougherty School District, Georgia",66493
+9700000US1301860,"Douglas County School District, Georgia",103087
+9700000US1302130,"Fayette County School District, Georgia",82659
+9700000US1302220,"Forsyth County School District, Georgia",154998
+9700000US1302280,"Fulton County School District, Georgia",403779
+9700000US1302400,"Glynn County School District, Georgia",65430
+9700000US1302520,"Spalding County School District, Georgia",49737
+9700000US1302550,"Gwinnett County School District, Georgia",556819
+9700000US1302610,"Hall County School District, Georgia",106680
+9700000US1302820,"Henry County School District, Georgia",169958
+9700000US1302880,"Houston County School District, Georgia",114015
+9700000US1303870,"Muscogee County School District, Georgia",138734
+9700000US1303930,"Newton County School District, Georgia",79035
+9700000US1304020,"Paulding County School District, Georgia",120119
+9700000US1304380,"Richmond County School District, Georgia",153303
+9700000US1304410,"Rockdale County School District, Georgia",65185
+9700000US1305370,"Walker County School District, Georgia",52456
+9700000US1305390,"Walton County School District, Georgia",65978
+9700000US1305700,"Whitfield County School District, Georgia",45173
+9700000US1500030,"Hawaii Department of Education, Hawaii",1014035
+9700000US1600360,"Boise City Independent School District 1, Idaho",160602
+9700000US1600780,"Coeur d'Alene School District 271, Idaho",62845
+9700000US1602100,"Meridian Joint School District 2, Idaho",179035
+9700000US1602340,"Nampa School District 131, Idaho",69526
+9700000US1602640,"Pocatello School District 25, Idaho",58538
+9700000US1704680,"Aurora East Unit School District 131, Illinois",43300
+9700000US1704710,"Aurora West Unit School District 129, Illinois",56101
+9700000US1708550,"Community Unit School District 300, Illinois",85970
+9700000US1709420,"Champaign Community Unit School District 4, Illinois",74183
+9700000US1709930,"Chicago Public School District 299, Illinois",1872121
+9700000US1711850,"Decatur School District 61, Illinois",49287
+9700000US1713710,"School District U-46, Illinois",154694
+9700000US1727710,"Naperville Community Unit District 203, Illinois",71409
+9700000US1728620,"McLean County Unit School District 5, Illinois",76822
+9700000US1730270,"Oswego Community Unit School District 308, Illinois",57794
+9700000US1731230,"Peoria School District 150, Illinois",72885
+9700000US1731740,"Plainfield School District 202, Illinois",85186
+9700000US1734510,"Rockford School District 205, Illinois",132191
+9700000US1737080,"Springfield School District 186, Illinois",83275
+9700000US1737170,"St. Charles Community Unit School District 303, Illinois",53244
+9700000US1740070,"Valley View Community Unit School District 365U, Illinois",60921
+9700000US1741250,"Waukegan Community Unit School District 60, Illinois",47068
+9700000US1741690,"Indian Prairie Community Unit School District 204, Illinois",86174
+9700000US1742180,"Community Unit School District 200, Illinois",57693
+9700000US1800150,"Anderson Community School Corporation, Indiana",54381
+9700000US1800360,"Bartholomew County School Corporation, Indiana",52646
+9700000US1800630,"Monroe County Community School Corporation, Indiana",103141
+9700000US1801200,"Carmel Clay Schools, Indiana",69744
+9700000US1802850,"East Allen County Schools, Indiana",48456
+9700000US1803270,"Elkhart Community Schools, Indiana",53960
+9700000US1803450,"Evansville-Vanderburgh School Corporation, Indiana",138743
+9700000US1803630,"Fort Wayne Community Schools, Indiana",162221
+9700000US1803870,"Gary Community School Corporation, Indiana",48985
+9700000US1803940,"Greater Clark County Schools, Indiana",62366
+9700000US1804320,"Hammond School City, Indiana",54565
+9700000US1804770,"Indianapolis Public Schools, Indiana",225056
+9700000US1805450,"Lake Central School Corporation, Indiana",52945
+9700000US1805670,"Lawrence Township Metropolitan School District, Indiana",76017
+9700000US1807320,"Muncie Community Schools, Indiana",57105
+9700000US1807410,"New Albany-Floyd County Consolidated Schools, Indiana",59728
+9700000US1808760,"Penn-Harris-Madison School Corporation, Indiana",47046
+9700000US1808820,"Perry Township Metropolitan School District, Indiana",67215
+9700000US1808910,"Pike Township Metropolitan School District, Indiana",52976
+9700000US1810290,"South Bend Community School Corporation, Indiana",116122
+9700000US1810650,"Hamilton Southeastern Schools, Indiana",76382
+9700000US1811340,"Tippecanoe School Corporation, Indiana",76262
+9700000US1812090,"Vigo County School Corporation, Indiana",83488
+9700000US1812360,"Warren Township Metropolitan School District, Indiana",47740
+9700000US1812720,"Washington Township Metropolitan School District, Indiana",72707
+9700000US1812810,"Wayne Township Metropolitan School District, Indiana",52652
+9700000US1903690,"Ankeny Community School District, Iowa",48678
+9700000US1906540,"Cedar Rapids Community School District, Iowa",92698
+9700000US1908580,"Davenport Community School District, Iowa",82795
+9700000US1908970,"Des Moines Independent Community School District, Iowa",153257
+9700000US1909480,"Dubuque Community School District, Iowa",58902
+9700000US1914700,"Iowa City Community School District, Iowa",89646
+9700000US1926400,"Sioux City Community School District, Iowa",58625
+9700000US1930480,"Waterloo Community School District, Iowa",55377
+9700000US1930510,"Waukee Community School District, Iowa",44087
+9700000US1930930,"West Des Moines Community School District, Iowa",48892
+9700000US2007950,"Kansas City Unified School District 500, Kansas",70791
+9700000US2008400,"Lawrence Unified School District 497, Kansas",79905
+9700000US2009180,"Manhattan Unified School District 383, Kansas",51127
+9700000US2010140,"Olathe Unified School District 233, Kansas",109373
+9700000US2011640,"Shawnee Mission Public Schools Unified School District, Kansas",173502
+9700000US2012000,"Blue Valley Unified School District 229, Kansas",94979
+9700000US2012260,"Topeka Public Schools Unified School District 501, Kansas",73013
+9700000US2012990,"Wichita Unified School District 259, Kansas",230950
+9700000US2100510,"Boone County School District, Kentucky",87674
+9700000US2100750,"Bullitt County School District, Kentucky",62189
+9700000US2101470,"Daviess County School District, Kentucky",53091
+9700000US2101860,"Fayette County School District, Kentucky",238116
+9700000US2102490,"Hardin County School District, Kentucky",67689
+9700000US2102990,"Jefferson County School District, Kentucky",564590
+9700000US2103090,"Kenton County School District, Kentucky",79450
+9700000US2103720,"Madison County School District, Kentucky",65789
+9700000US2104530,"Oldham County School District, Kentucky",48867
+9700000US2105730,"Warren County School District, Kentucky",73714
+9700000US2200090,"Ascension Parish School District, Louisiana",91000
+9700000US2200270,"Bossier Parish School District, Louisiana",92857
+9700000US2200300,"Caddo Parish School District, Louisiana",181832
+9700000US2200330,"Calcasieu Parish School District, Louisiana",149253
+9700000US2200540,"East Baton Rouge Parish School District, Louisiana",273137
+9700000US2200720,"Iberia Parish School District, Louisiana",50990
+9700000US2200840,"Jefferson Parish School District, Louisiana",309998
+9700000US2200870,"Lafayette Parish School District, Louisiana",181358
+9700000US2200900,"Lafourche Parish School District, Louisiana",73359
+9700000US2201020,"Livingston Parish School District, Louisiana",103203
+9700000US2201170,"Orleans Parish School District, Louisiana",303459
+9700000US2201200,"Ouachita Parish School District, Louisiana",80302
+9700000US2201290,"Rapides Parish School District, Louisiana",95767
+9700000US2201560,"St. Landry Parish School District, Louisiana",60519
+9700000US2201650,"St. Tammany Parish School District, Louisiana",193466
+9700000US2201680,"Tangipahoa Parish School District, Louisiana",100134
+9700000US2201740,"Terrebonne Parish School District, Louisiana",80173
+9700000US2309930,"Portland, Maine",55886
+9700000US2400030,"Allegany County Public Schools, Maryland",57871
+9700000US2400060,"Anne Arundel County Public Schools, Maryland",432624
+9700000US2400090,"Baltimore City Public Schools, Maryland",452779
+9700000US2400120,"Baltimore County Public Schools, Maryland",607700
+9700000US2400150,"Calvert County Public Schools, Maryland",70096
+9700000US2400210,"Carroll County Public Schools, Maryland",130117
+9700000US2400240,"Cecil County Public Schools, Maryland",78499
+9700000US2400270,"Charles County Public Schools, Maryland",119709
+9700000US2400330,"Frederick County Public Schools, Maryland",188353
+9700000US2400390,"Harford County Public Schools, Maryland",196554
+9700000US2400420,"Howard County Public Schools, Maryland",222241
+9700000US2400480,"Montgomery County Public Schools, Maryland",670933
+9700000US2400510,"Prince George's County Public Schools, Maryland",596445
+9700000US2400600,"St. Marys County Public Schools, Maryland",84469
+9700000US2400660,"Washington County Public Schools, Maryland",113328
+9700000US2400690,"Wicomico County Public Schools, Maryland",75589
+9700000US2502790,"Boston School District, Massachusetts",496231
+9700000US2503090,"Brockton School District, Massachusetts",62587
+9700000US2503270,"Cambridge School District, Massachusetts",85649
+9700000US2504830,"Fall River School District, Massachusetts",63216
+9700000US2504980,"Framingham School District, Massachusetts",44298
+9700000US2506660,"Lawrence School District, Massachusetts",45447
+9700000US2507020,"Lowell School District, Massachusetts",81561
+9700000US2507110,"Lynn School District, Massachusetts",53232
+9700000US2508430,"New Bedford School District, Massachusetts",63933
+9700000US2508610,"Newton School District, Massachusetts",63971
+9700000US2509870,"Quincy School District, Massachusetts",66741
+9700000US2510890,"Somerville School District, Massachusetts",59608
+9700000US2511130,"Springfield School District, Massachusetts",109071
+9700000US2513230,"Worcester School District, Massachusetts",129079
+9700000US2600015,"Wayne-Westland Community School District, Michigan",62944
+9700000US2602820,"Ann Arbor Public Schools, Michigan",127324
+9700000US2604260,"Bay City School District, Michigan",54917
+9700000US2609570,"Chippewa Valley Schools, Michigan",75326
+9700000US2611600,"Dearborn City School District, Michigan",61353
+9700000US2612000,"Detroit City School District, Michigan",482693
+9700000US2614070,"Farmington Public School District, Michigan",60013
+9700000US2614520,"Flint City School District, Michigan",70707
+9700000US2616440,"Grand Rapids Public Schools, Michigan",141247
+9700000US2619950,"Kalamazoo Public School District, Michigan",85676
+9700000US2620340,"Kentwood Public Schools, Michigan",43991
+9700000US2621150,"Lansing Public School District, Michigan",90181
+9700000US2621840,"Livonia Public Schools, Michigan",89042
+9700000US2621870,"L'Anse Creuse Public Schools, Michigan",55247
+9700000US2628560,"Plymouth-Canton Community Schools, Michigan",89804
+9700000US2628740,"Pontiac City School District, Michigan",54636
+9700000US2628830,"Port Huron Area School District, Michigan",51842
+9700000US2629940,"Rochester Community School District, Michigan",68467
+9700000US2632310,"Southfield Public School District, Michigan",57575
+9700000US2633540,"Taylor School District, Michigan",51716
+9700000US2633870,"Traverse City Area Public Schools, Michigan",69227
+9700000US2634260,"Troy School District, Michigan",44575
+9700000US2634470,"Utica Community Schools, Michigan",146606
+9700000US2635160,"Walled Lake Consolidated Schools, Michigan",74723
+9700000US2635190,"Warren Consolidated Schools, Michigan",85023
+9700000US2635310,"Waterford School District, Michigan",63474
+9700000US2703180,"Anoka-Hennepin Public School District, Minnesota",183190
+9700000US2705790,"Bloomington Public School District, Minnesota",66091
+9700000US2707290,"Burnsville Public School District, Minnesota",49396
+9700000US2711040,"Duluth Public School District, Minnesota",76763
+9700000US2711370,"Elk River Public School District, Minnesota",58820
+9700000US2714260,"Hopkins Public School District, Minnesota",47917
+9700000US2718780,"Mankato Public School District, Minnesota",51486
+9700000US2721240,"Minneapolis Public School District, Minnesota",316435
+9700000US2722950,"Mounds View Public School District, Minnesota",56880
+9700000US2723850,"North St. Paul-Maplewood-Oakdale School District, Minnesota",62243
+9700000US2725200,"Osseo Public School District, Minnesota",106416
+9700000US2731780,"Robbinsdale Public School District, Minnesota",76571
+9700000US2731800,"Rochester Public School District, Minnesota",95191
+9700000US2732390,"Rosemount-Apple Valley-Eagan, Minnesota",109886
+9700000US2733510,"St. Cloud Public School District, Minnesota",78280
+9700000US2733810,"South Washington County School District, Minnesota",75987
+9700000US2733840,"St. Paul Public School District, Minnesota",209348
+9700000US2738190,"Stillwater Area Public School District, Minnesota",48909
+9700000US2742160,"Wayzata Public School District, Minnesota",49412
+9700000US2742360,"White Bear Lake School District, Minnesota",49383
+9700000US2801320,"DeSoto County School District, Mississippi",135519
+9700000US2801770,"Harrison County School District, Mississippi",71020
+9700000US2802190,"Jackson Public School District, Mississippi",117782
+9700000US2802790,"Madison County School District, Mississippi",64950
+9700000US2803830,"Rankin County School District, Mississippi",96779
+9700000US2901000,"Columbia 93 School District, Missouri",112015
+9700000US2905310,"Blue Springs R-IV School District, Missouri",57178
+9700000US2908370,"Fort Zumwalt R-II School District, Missouri",90705
+9700000US2912010,"Ferguson-Florissant R-II School District, Missouri",52395
+9700000US2912300,"Fox C-6 School District, Missouri",56200
+9700000US2913830,"Hazelwood School District, Missouri",90649
+9700000US2915480,"Independence 30 School District, Missouri",68321
+9700000US2916190,"Jefferson City Public Schools, Missouri",58259
+9700000US2916400,"Kansas City 33 School District, Missouri",157475
+9700000US2918300,"Lee's Summit R-VII School District, Missouri",72040
+9700000US2920670,"Mehlville R-IX School District, Missouri",71099
+9700000US2922800,"North Kansas City 74 School District, Missouri",103632
+9700000US2923550,"Park Hill School District, Missouri",54442
+9700000US2923580,"Parkway C-2 School District, Missouri",103383
+9700000US2926850,"Rockwood R-VI School District, Missouri",90758
+9700000US2927060,"St. Joseph School District, Missouri",61075
+9700000US2928860,"Springfield R-XII School District, Missouri",172672
+9700000US2928950,"Francis Howell R-III School District, Missouri",90259
+9700000US2929280,"St. Louis City School District, Missouri",232756
+9700000US2931650,"Wentzville R-IV School District, Missouri",66015
+9700000US3172840,"Lincoln Public Schools, Nebraska",216790
+9700000US3173740,"Millard Public Schools, Nebraska",77305
+9700000US3174820,"Omaha Public Schools, Nebraska",252468
+9700000US3175270,"Papillion-La Vista Community Schools, Nebraska",47271
+9700000US3200060,"Clark County School District, Nevada",1514146
+9700000US3200480,"Washoe County School District, Nevada",337075
+9700000US3304590,"Manchester School District, New Hampshire",85554
+9700000US3304980,"Nashua School District, New Hampshire",67833
+9700000US3401260,"Bayonne City School District, New Jersey",44372
+9700000US3402220,"Brick Township School District, New Jersey",60402
+9700000US3402640,"Camden City School District, New Jersey",46160
+9700000US3403000,"Cherry Hill Township School District, New Jersey",53527
+9700000US3403300,"Clifton City School District, New Jersey",54125
+9700000US3404230,"East Orange City School District, New Jersey",44419
+9700000US3404500,"Edison Township School District, New Jersey",55812
+9700000US3404590,"Elizabeth City School District, New Jersey",60543
+9700000US3405490,"Franklin Township School District, New Jersey",48664
+9700000US3406540,"Hamilton Township School District, New Jersey",64434
+9700000US3407830,"Jersey City School District, New Jersey",155099
+9700000US3408220,"Lakewood Township School District, New Jersey",45239
+9700000US3409270,"Old Bridge Township School District, New Jersey",49182
+9700000US3410110,"Middletown Township School District, New Jersey",51889
+9700000US3411340,"Newark City School District, New Jersey",160087
+9700000US3412540,"Passaic City School District, New Jersey",31205
+9700000US3412690,"Paterson City School District, New Jersey",76236
+9700000US3416230,"Toms River Regional School District, New Jersey",84094
+9700000US3416290,"Trenton City School District, New Jersey",47437
+9700000US3416380,"Union City School District, New Jersey",37101
+9700000US3418120,"Woodbridge Township School District, New Jersey",66095
+9700000US3500010,"Rio Rancho Public Schools, New Mexico",75775
+9700000US3500060,"Albuquerque Public Schools, New Mexico",502927
+9700000US3501080,"Gadsden Independent Schools, New Mexico",40901
+9700000US3501500,"Las Cruces Public Schools, New Mexico",109755
+9700000US3502370,"Santa Fe Public Schools, New Mexico",94418
+9700000US3602460,"Albany City School District, New York",74976
+9700000US3605280,"Brentwood Union Free School District, New York",51041
+9700000US3605850,"Buffalo City School District, New York",184368
+9700000US3612630,"Greece Central School District, New York",67228
+9700000US3615570,"Ithaca City School District, New York",54062
+9700000US3616230,"Kenmore-Tonawanda Union Free School District, New York",56035
+9700000US3619230,"Longwood Central School District, New York",51215
+9700000US3620100,"Mount Vernon School District, New York",50049
+9700000US3620490,"New Rochelle City School District, New York",54601
+9700000US3620580,"New York City Department Of Education, New York",5457412
+9700000US3620700,"Newburgh City School District, New York",44757
+9700000US3624750,"Rochester City School District, New York",153987
+9700000US3625350,"Sachem Central School District, New York",69066
+9700000US3626010,"Schenectady City School District, New York",48725
+9700000US3626670,"Shenendehowa Central School District, New York",49485
+9700000US3627810,"East Ramapo Central School District (Spring Valley), New York",61297
+9700000US3628590,"Syracuse City School District, New York",105669
+9700000US3629880,"Wappingers Central School District, New York",55893
+9700000US3631470,"Williamsville Central School District, New York",56386
+9700000US3631920,"Yonkers City School District, New York",132680
+9700000US3700011,"Cumberland County Schools, North Carolina",224157
+9700000US3700012,"Pitt County Schools, North Carolina",136861
+9700000US3700030,"Alamance-Burlington Schools, North Carolina",123223
+9700000US3700420,"Brunswick County Schools, North Carolina",120061
+9700000US3700450,"Buncombe County Schools, North Carolina",167554
+9700000US3700480,"Burke County Schools, North Carolina",70157
+9700000US3700530,"Cabarrus County Schools, North Carolina",133497
+9700000US3700580,"Caldwell County Schools, North Carolina",64174
+9700000US3700630,"Carteret County Schools, North Carolina",56912
+9700000US3700690,"Catawba County Schools, North Carolina",80574
+9700000US3700720,"Chapel Hill-Carrboro Schools, North Carolina",69721
+9700000US3700750,"Chatham County Schools, North Carolina",53931
+9700000US3700900,"Cleveland County Schools, North Carolina",75291
+9700000US3701140,"Davidson County Schools, North Carolina",101814
+9700000US3701260,"Durham Public Schools, North Carolina",228429
+9700000US3701500,"Forsyth County Schools, North Carolina",278895
+9700000US3701530,"Franklin County Schools, North Carolina",51463
+9700000US3701620,"Gaston County Schools, North Carolina",168342
+9700000US3701920,"Guilford County Schools, North Carolina",392223
+9700000US3702010,"Harnett County Schools, North Carolina",96559
+9700000US3702100,"Henderson County Schools, North Carolina",91632
+9700000US3702310,"Iredell-Statesville Schools, North Carolina",113440
+9700000US3702370,"Johnston County Schools, North Carolina",144687
+9700000US3702680,"Lincoln County Schools, North Carolina",66936
+9700000US3702970,"Charlotte-Mecklenburg Schools, North Carolina",754798
+9700000US3703090,"Moore County Schools, North Carolina",76509
+9700000US3703270,"Nash-Rocky Mount Schools, North Carolina",76879
+9700000US3703310,"Craven County Schools, North Carolina",77300
+9700000US3703330,"New Hanover County Schools, North Carolina",186184
+9700000US3703450,"Onslow County Schools, North Carolina",120154
+9700000US3703780,"Randolph County Schools, North Carolina",85628
+9700000US3703930,"Robeson County Schools, North Carolina",94277
+9700000US3703990,"Rockingham County Schools, North Carolina",71105
+9700000US3704050,"Rowan-Salisbury Schools, North Carolina",100402
+9700000US3704080,"Rutherford County Schools, North Carolina",52502
+9700000US3704620,"Union County Public Schools, North Carolina",166338
+9700000US3704720,"Wake County Schools, North Carolina",771942
+9700000US3704880,"Wayne County Public Schools, North Carolina",88565
+9700000US3704950,"Wilkes County Schools, North Carolina",54467
+9700000US3705020,"Wilson County Schools, North Carolina",59560
+9700000US3800014,"Bismarck Public School District 1, North Dakota",70126
+9700000US3806780,"Fargo Public School District 1, North Dakota",68113
+9700000US3819410,"West Fargo Public School District 6, North Dakota",56352
+9700000US3904348,"Akron City School District, Ohio",143131
+9700000US3904371,"Canton City School District, Ohio",47741
+9700000US3904375,"Cincinnati City School District, Ohio",254774
+9700000US3904378,"Cleveland Municipal School District, Ohio",287587
+9700000US3904380,"Columbus City School District, Ohio",423009
+9700000US3904384,"Dayton City School District, Ohio",116471
+9700000US3904463,"Parma City School District, Ohio",85604
+9700000US3904480,"South-Western City School District, Ohio",107411
+9700000US3904490,"Toledo City School District, Ohio",164282
+9700000US3904504,"Westerville City School District, Ohio",74834
+9700000US3904510,"Willoughby-Eastlake City School District, Ohio",49893
+9700000US3904513,"Worthington City School District, Ohio",45287
+9700000US3904516,"Youngstown City School District, Ohio",52644
+9700000US3904610,"Fairfield City School District, Ohio",49480
+9700000US3904611,"Lakota Local School District (Butler County), Ohio",71027
+9700000US3904635,"West Clermont Local School District, Ohio",50005
+9700000US3904676,"Olentangy Local School District, Ohio",57457
+9700000US3904701,"Hilliard City School District, Ohio",66887
+9700000US3904702,"Dublin City School District, Ohio",56400
+9700000US3904736,"Northwest Local School District (Butler and Hamilton Counties), Ohio",57422
+9700000US3904737,"Oak Hills Local School District, Ohio",46279
+9700000US4005490,"Broken Arrow Public Schools, Oklahoma",85367
+9700000US4010590,"Edmond Public Schools, Oklahoma",118985
+9700000US4015720,"Jenks Public Schools, Oklahoma",50069
+9700000US4017250,"Lawton Public Schools, Oklahoma",66903
+9700000US4019950,"Midwest City-Del City Schools, Oklahoma",60028
+9700000US4020250,"Moore Public Schools, Oklahoma",104692
+9700000US4021720,"Norman Public Schools, Oklahoma",90426
+9700000US4022770,"Oklahoma City Public Schools, Oklahoma",193295
+9700000US4025290,"Putnam City Public Schools, Oklahoma",88872
+9700000US4030240,"Tulsa Public Schools, Oklahoma",197231
+9700000US4030600,"Union Public Schools, Oklahoma",58268
+9700000US4100023,"Hillsboro School District 1J, Oregon",92832
+9700000US4101120,"Greater Albany School District 8J, Oregon",52901
+9700000US4101920,"Beaverton School District 48J, Oregon",209247
+9700000US4101980,"Bend-La Pine Administrative School District 1, Oregon",107335
+9700000US4103480,"Corvallis School District 509J, Oregon",57460
+9700000US4103940,"David Douglas School District 40, Oregon",45625
+9700000US4104740,"Eugene School District 4J, Oregon",132797
+9700000US4106000,"Gresham-Barlow School District 1J, Oregon",58121
+9700000US4108040,"Medford School District 549, Oregon",69770
+9700000US4108830,"North Clackamas School District 12, Oregon",101181
+9700000US4110040,"Portland School District 1J, Oregon",416453
+9700000US4110520,"Reynolds School District 7, Oregon",48814
+9700000US4110820,"Salem-Keizer School District 24J, Oregon",188982
+9700000US4111670,"Springfield School District 19, Oregon",59769
+9700000US4112240,"Tigard-Tualatin School District 23J, Oregon",67255
+9700000US4202280,"Allentown City School District, Pennsylvania",79968
+9700000US4203570,"Bethlehem Area School District, Pennsylvania",93914
+9700000US4205310,"Central Bucks School District, Pennsylvania",87768
+9700000US4205400,"Central Dauphin School District, Pennsylvania",73647
+9700000US4205550,"Chambersburg Area School District, Pennsylvania",56278
+9700000US4206240,"Coatesville Area School District, Pennsylvania",51852
+9700000US4206960,"Council Rock School District, Pennsylvania",57333
+9700000US4207710,"Downingtown Area School District, Pennsylvania",53181
+9700000US4208850,"Easton Area School District, Pennsylvania",49319
+9700000US4209300,"Erie City School District, Pennsylvania",72304
+9700000US4211700,"Hazleton Area School District, Pennsylvania",49620
+9700000US4213140,"Lancaster School District, Pennsylvania",55753
+9700000US4216410,"Neshaminy School District, Pennsylvania",54937
+9700000US4216980,"Norristown Area School District, Pennsylvania",48348
+9700000US4217280,"North Penn School District, Pennsylvania",77295
+9700000US4218840,"Pennsbury School District, Pennsylvania",51972
+9700000US4218990,"Philadelphia City School District, Pennsylvania",1147538
+9700000US4219170,"Pittsburgh School District, Pennsylvania",241791
+9700000US4220040,"Reading School District, Pennsylvania",57454
+9700000US4221090,"Scranton School District, Pennsylvania",59219
+9700000US4222770,"State College Area School District, Pennsylvania",72976
+9700000US4224320,"Upper Darby School District, Pennsylvania",61477
+9700000US4225290,"West Chester Area School District, Pennsylvania",84805
+9700000US4400240,"Cranston School District, Rhode Island",61529
+9700000US4400840,"Pawtucket School District, Rhode Island",49757
+9700000US4400900,"Providence School District, Rhode Island",120511
+9700000US4401110,"Warwick School District, Rhode Island",65150
+9700000US4500720,"Aiken County School District, South Carolina",133246
+9700000US4500900,"Anderson School District 5, South Carolina",65375
+9700000US4501110,"Beaufort County School District, South Carolina",149064
+9700000US4501170,"Berkeley County School District, South Carolina",167417
+9700000US4501440,"Charleston County School District, South Carolina",315503
+9700000US4501860,"Darlington County School District, South Carolina",51850
+9700000US4502010,"Dorchester School District 2, South Carolina",102853
+9700000US4502130,"Florence School District 1, South Carolina",72539
+9700000US4502310,"Greenville County School District, South Carolina",392037
+9700000US4502490,"Horry County School District, South Carolina",277031
+9700000US4502550,"Kershaw County School District, South Carolina",49777
+9700000US4502580,"Lancaster County School District, South Carolina",73233
+9700000US4502700,"Lexington School District 1, South Carolina",106190
+9700000US4502730,"Lexington School District 2, South Carolina",53768
+9700000US4502820,"Lexington School District 5, South Carolina",84044
+9700000US4503060,"Oconee County School District, South Carolina",61850
+9700000US4503330,"Pickens County School District, South Carolina",100370
+9700000US4503360,"Richland School District 1, South Carolina",157694
+9700000US4503390,"Richland School District 2, South Carolina",100983
+9700000US4503510,"Spartanburg School District 2, South Carolina",49103
+9700000US4503630,"Spartanburg School District 6, South Carolina",54310
+9700000US4503870,"York School District 3, South Carolina",91770
+9700000US4503900,"York School District 4, South Carolina",53394
+9700000US4503902,"Sumter County Consolidated School District, South Carolina",80310
+9700000US4659820,"Rapid City School District 51-4, South Dakota",78173
+9700000US4666270,"Sioux Falls School District 49-5, South Dakota",114736
+9700000US4700148,"Shelby County School District, Tennessee",539955
+9700000US4700300,"Blount County School District, Tennessee",74727
+9700000US4701590,"Hamilton County School District, Tennessee",281506
+9700000US4702220,"Knox County School District, Tennessee",360760
+9700000US4702580,"Jackson-Madison County School System, Tennessee",74679
+9700000US4702760,"Maury County School District, Tennessee",72381
+9700000US4703030,"Clarksville-Montgomery County School System, Tennessee",141651
+9700000US4703180,"Metropolitan Nashville Public School District, Tennessee",500382
+9700000US4703480,"Putnam County School District, Tennessee",61746
+9700000US4703600,"Robertson County School District, Tennessee",53064
+9700000US4703690,"Rutherford County School District, Tennessee",127444
+9700000US4703780,"Sevier County School District, Tennessee",74213
+9700000US4703990,"Sullivan County School District, Tennessee",65824
+9700000US4704020,"Sumner County School District, Tennessee",141593
+9700000US4704380,"Washington County School District, Tennessee",53627
+9700000US4704530,"Williamson County School District, Tennessee",135905
+9700000US4704550,"Wilson County School District, Tennessee",78597
+9700000US4800010,"Hays Consolidated Independent School District, Texas",73247
+9700000US4807350,"College Station Independent School District, Texas",96537
+9700000US4807440,"Abilene Independent School District, Texas",76165
+9700000US4807710,"Aldine Independent School District, Texas",151310
+9700000US4807830,"Alief Independent School District, Texas",138172
+9700000US4807890,"Allen Independent School District, Texas",75577
+9700000US4808090,"Alvin Independent School District, Texas",85844
+9700000US4808130,"Amarillo Independent School District, Texas",112412
+9700000US4808700,"Arlington Independent School District, Texas",241130
+9700000US4808940,"Austin Independent School District, Texas",530473
+9700000US4809670,"Beaumont Independent School District, Texas",93841
+9700000US4810230,"Birdville Independent School District, Texas",100584
+9700000US4811190,"Brazosport Independent School District, Texas",44078
+9700000US4811680,"Brownsville Independent School District, Texas",101119
+9700000US4811790,"Bryan Independent School District, Texas",66050
+9700000US4812180,"Burleson Independent School District, Texas",49135
+9700000US4813050,"Carrollton-Farmers Branch Independent School District, Texas",122891
+9700000US4814280,"Clear Creek Independent School District, Texas",161752
+9700000US4814730,"Comal Independent School District, Texas",99252
+9700000US4815000,"Conroe Independent School District, Texas",224753
+9700000US4815270,"Corpus Christi Independent School District, Texas",173496
+9700000US4815910,"Crowley Independent School District, Texas",75196
+9700000US4816110,"Cypress-Fairbanks Independent School District, Texas",369579
+9700000US4816230,"Dallas Independent School District, Texas",661852
+9700000US4816620,"Del Valle Independent School District, Texas",49407
+9700000US4816740,"Denton Independent School District, Texas",150404
+9700000US4817070,"Dickinson Independent School District, Texas",43784
+9700000US4817390,"Donna Independent School District, Texas",28319
+9700000US4817640,"Duncanville Independent School District, Texas",45763
+9700000US4817700,"Eagle Mountain-Saginaw Independent School District, Texas",81764
+9700000US4818000,"Ector County Independent School District, Texas",99593
+9700000US4818150,"Edgewood Independent School District (Bexar County), Texas",41512
+9700000US4818180,"Edinburg Consolidated Independent School District, Texas",92474
+9700000US4818300,"El Paso Independent School District, Texas",205841
+9700000US4819650,"Fort Bend Independent School District, Texas",289488
+9700000US4819700,"Fort Worth Independent School District, Texas",326676
+9700000US4820010,"Frisco Independent School District, Texas",160787
+9700000US4820250,"Galena Park Independent School District, Texas",48815
+9700000US4820340,"Garland Independent School District, Texas",174158
+9700000US4820600,"Georgetown Independent School District, Texas",72672
+9700000US4821150,"Goose Creek Consolidated Independent School District, Texas",70622
+9700000US4821420,"Grand Prairie Independent School District, Texas",69396
+9700000US4821660,"Grapevine-Colleyville Independent School District, Texas",64174
+9700000US4822470,"Harlandale Independent School District, Texas",43523
+9700000US4822530,"Harlingen Consolidated Independent School District, Texas",52295
+9700000US4823640,"Houston Independent School District, Texas",918308
+9700000US4823910,"Humble Independent School District, Texas",134892
+9700000US4824030,"Huntsville Independent School District, Texas",53483
+9700000US4824060,"Hurst-Euless-Bedford Independent School District, Texas",103406
+9700000US4824420,"Irving Independent School District, Texas",88058
+9700000US4824990,"Judson Independent School District, Texas",86570
+9700000US4825170,"Katy Independent School District, Texas",208902
+9700000US4825260,"Keller Independent School District, Texas",117273
+9700000US4825660,"Killeen Independent School District, Texas",150532
+9700000US4825740,"Klein Independent School District, Texas",167806
+9700000US4826130,"La Joya Independent School District, Texas",47967
+9700000US4826580,"Lamar Consolidated Independent School District, Texas",124961
+9700000US4826790,"Laredo Independent School District, Texas",42328
+9700000US4827030,"Leander Independent School District, Texas",143448
+9700000US4827300,"Lewisville Independent School District, Texas",219226
+9700000US4828500,"Lubbock Independent School District, Texas",142875
+9700000US4828740,"Magnolia Independent School District, Texas",44865
+9700000US4828920,"Mansfield Independent School District, Texas",106733
+9700000US4829670,"McAllen Independent School District, Texas",74525
+9700000US4829850,"McKinney Independent School District, Texas",92117
+9700000US4830390,"Mesquite Independent School District, Texas",104654
+9700000US4830570,"Midland Independent School District, Texas",108232
+9700000US4832370,"New Braunfels Independent School District, Texas",46501
+9700000US4832400,"New Caney Independent School District, Texas",46155
+9700000US4832940,"North East Independent School District, Texas",314729
+9700000US4833120,"Northside Independent School District (Bandera, Bexar, and Medina Counties); Texas",439703
+9700000US4833180,"Northwest Independent School District, Texas",77027
+9700000US4834320,"Pasadena Independent School District, Texas",143021
+9700000US4834440,"Pearland Independent School District, Texas",71895
+9700000US4834830,"Pflugerville Independent School District, Texas",99996
+9700000US4834860,"Pharr-San Juan-Alamo Independent School District, Texas",62348
+9700000US4835100,"Plano Independent School District, Texas",238199
+9700000US4837020,"Richardson Independent School District, Texas",149732
+9700000US4837650,"Rockwall Independent School District, Texas",60146
+9700000US4838080,"Round Rock Independent School District, Texas",193605
+9700000US4838700,"San Angelo Independent School District, Texas",73297
+9700000US4838730,"San Antonio Independent School District, Texas",223527
+9700000US4838970,"San Marcos Consolidated Independent School District, Texas",67166
+9700000US4839480,"Schertz-Cibolo-Universal City Independent School District, Texas",63907
+9700000US4840710,"Socorro Independent School District, Texas",133472
+9700000US4840950,"Southwest Independent School District, Texas",39185
+9700000US4841100,"Spring Branch Independent School District, Texas",97808
+9700000US4841220,"Spring Independent School District, Texas",131558
+9700000US4842960,"Tomball Independent School District, Texas",48023
+9700000US4843470,"Tyler Independent School District, Texas",90932
+9700000US4843650,"United Independent School District, Texas",100854
+9700000US4844150,"Victoria Independent School District, Texas",60527
+9700000US4844280,"Waco Independent School District, Texas",79762
+9700000US4844960,"Weslaco Independent School District, Texas",40405
+9700000US4845780,"Wichita Falls Independent School District, Texas",66394
+9700000US4846530,"Wylie Independent School District (Collin County), Texas",47508
+9700000US4846680,"Ysleta Independent School District, Texas",130988
+9700000US4900030,"Alpine School District, Utah",223845
+9700000US4900120,"Cache School District, Utah",48130
+9700000US4900142,"Canyons School District, Utah",156412
+9700000US4900210,"Davis School District, Utah",235395
+9700000US4900360,"Granite School District, Utah",250695
+9700000US4900420,"Jordan School District, Utah",188759
+9700000US4900630,"Nebo School District, Utah",92424
+9700000US4900720,"Ogden School District, Utah",61691
+9700000US4900810,"Provo School District, Utah",87592
+9700000US4900870,"Salt Lake City School District, Utah",142451
+9700000US4901050,"Tooele School District, Utah",48276
+9700000US4901140,"Washington School District, Utah",126332
+9700000US4901200,"Weber School District, Utah",118807
+9700000US5100036,"James City County Public Schools, Virginia",59845
+9700000US5100090,"Albemarle County Public Schools, Virginia",82905
+9700000US5100120,"Alexandria City Public Schools, Virginia",109615
+9700000US5100270,"Arlington County Public Schools, Virginia",170803
+9700000US5100300,"Augusta County Public Schools, Virginia",60595
+9700000US5100360,"Bedford County Public Schools, Virginia",62220
+9700000US5100810,"Chesapeake City Public Schools, Virginia",178713
+9700000US5100840,"Chesterfield County Public Schools, Virginia",255298
+9700000US5101260,"Fairfax County Public Schools, Virginia",744298
+9700000US5101320,"Fauquier County Public Schools, Virginia",52358
+9700000US5101470,"Frederick County Public Schools, Virginia",65187
+9700000US5101800,"Hampton City Public Schools, Virginia",104321
+9700000US5101830,"Hanover County Public Schools, Virginia",82619
+9700000US5101890,"Henrico County Public Schools, Virginia",235594
+9700000US5102250,"Loudoun County Public Schools, Virginia",262259
+9700000US5102340,"Lynchburg City Public Schools, Virginia",63636
+9700000US5102520,"Montgomery County Public Schools, Virginia",80153
+9700000US5102640,"Newport News City Public Schools, Virginia",130216
+9700000US5102670,"Norfolk City Public Schools, Virginia",188326
+9700000US5103000,"Portsmouth City Public Schools, Virginia",72286
+9700000US5103130,"Prince William County Public Schools, Virginia",287392
+9700000US5103240,"Richmond City Public Schools, Virginia",179536
+9700000US5103300,"Roanoke City Public Schools, Virginia",75645
+9700000US5103330,"Roanoke County Public Schools, Virginia",73479
+9700000US5103390,"Rockingham County Public Schools, Virginia",61345
+9700000US5103640,"Spotsylvania County Public Schools, Virginia",96345
+9700000US5103660,"Stafford County Public Schools, Virginia",104019
+9700000US5103710,"Suffolk City Public Schools, Virginia",67995
+9700000US5103840,"Virginia Beach City Public Schools, Virginia",338466
+9700000US5104150,"York County Public Schools, Virginia",50401
+9700000US5300300,"Auburn School District, Washington",60547
+9700000US5300380,"Battle Ground School District, Washington",61702
+9700000US5300390,"Bellevue School District, Washington",77921
+9700000US5300420,"Bellingham School District, Washington",92219
+9700000US5300480,"Bethel School District, Washington",85663
+9700000US5301080,"Central Kitsap School District, Washington",58149
+9700000US5301110,"Central Valley School District, Washington",65812
+9700000US5301410,"Clover Park School District, Washington",58121
+9700000US5302400,"Edmonds School District, Washington",128463
+9700000US5302670,"Everett School District, Washington",104380
+9700000US5302700,"Evergreen School District (Clark), Washington",107269
+9700000US5302820,"Federal Way School District, Washington",86277
+9700000US5303540,"Highline School District, Washington",87985
+9700000US5303750,"Issaquah School District, Washington",72433
+9700000US5303930,"Kennewick School District, Washington",67965
+9700000US5303960,"Kent School District, Washington",115747
+9700000US5304230,"Lake Washington School District, Washington",127685
+9700000US5304860,"Marysville School District, Washington",57135
+9700000US5305430,"Mukilteo School District, Washington",70724
+9700000US5305850,"North Thurston Public Schools, Washington",81685
+9700000US5305910,"Northshore School District, Washington",95037
+9700000US5306180,"Olympia School District, Washington",51685
+9700000US5306570,"Pasco School District, Washington",42232
+9700000US5306690,"Peninsula School District, Washington",55227
+9700000US5306960,"Puyallup School District, Washington",104800
+9700000US5307230,"Renton School District, Washington",84343
+9700000US5307320,"Richland School District, Washington",52006
+9700000US5307710,"Seattle Public Schools, Washington",567172
+9700000US5307920,"Shoreline School District, Washington",54046
+9700000US5308160,"South Kitsap School District, Washington",56435
+9700000US5308250,"Spokane Public Schools, Washington",181636
+9700000US5308700,"Tacoma Public Schools, Washington",165617
+9700000US5309270,"Vancouver Public Schools, Washington",119023
+9700000US5310110,"Yakima School District, Washington",43641
+9700000US5400060,"Berkeley County School District, West Virginia",89730
+9700000US5400180,"Cabell County School District, West Virginia",73138
+9700000US5400510,"Harrison County School District, West Virginia",52526
+9700000US5400600,"Kanawha County School District, West Virginia",140966
+9700000US5400930,"Monongalia School District, West Virginia",84917
+9700000US5401230,"Raleigh County School District, West Virginia",58055
+9700000US5401620,"Wood County School District, West Virginia",65709
+9700000US5500390,"Appleton Area School District, Wisconsin",75801
+9700000US5504050,"Eau Claire Area School District, Wisconsin",67589
+9700000US5505820,"Green Bay Area School District, Wisconsin",101834
+9700000US5507020,"Janesville School District, Wisconsin",50377
+9700000US5507320,"Kenosha School District, Wisconsin",94097
+9700000US5508520,"Madison Metropolitan School District, Wisconsin",206957
+9700000US5509600,"Milwaukee School District, Wisconsin",404940
+9700000US5511190,"Oshkosh Area School District, Wisconsin",62885
+9700000US5512360,"Racine School District, Wisconsin",101350
+9700000US5515780,"Waukesha School District, Wisconsin",71670
+9700000US5516260,"West Allis School District, Wisconsin",51854
+9700000US5601980,"Laramie County School District 1, Wyoming",69109
+9700000US5604510,"Natrona County School District 1, Wyoming",60367
+9700000US7200030,"Puerto Rico Department of Education, Puerto Rico",2579596

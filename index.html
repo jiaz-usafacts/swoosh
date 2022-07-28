@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+
+<!-- Load d3.js -->
+<script src="https://d3js.org/d3.v6.js"></script>
+
+<!-- Create a div where the graph will take place -->
+<div id="colorKey"></div>
+<div id="my_dataviz"></div>
+<script>
+
+// city.csv
+// max: 5457412 min: 28708
+// congress.csv
+// max: 2579596 min: 334291
+// county.csv
+// max: 6389353 min: 40528
+// countySubdivision.csv
+// max: 1872121 min: 31205
+// places.csv
+// max: 7774570 min: 186536
+// schoolDistrict.csv
+// max: 5457412 min: 28319
+// set the dimensions and margins of the graph
+	
+	var colors = ["#E62790","#00347B","#249EDC","#00906E","#6929C4","#20659D","#CF77AD","#851C6A"]
+	
+const margin = {top: 10, right: 30, bottom: 30, left: 60},
+    width = 1600 - margin.left - margin.right,
+    height = 800 - margin.top - margin.bottom;
+
+// append the svg object to the body of the page
+const svg = d3.select("#my_dataviz")
+  .append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+  .append("g")
+    .attr("transform", `translate(${margin.left},${margin.top})`);
+
+//Read the data
+
+		var yScale = d3.scaleSqrt().domain([0,7774570]).range([0,height])
+		var xScale = d3.scaleLinear().domain([0,3]).range([0,width-600])
+	
+	files = ["places_s.csv","schoolDistrict_s.csv","county_s.csv","congress_s.csv","countySubdivision_s.csv"]
+	
+	Promise.all([d3.csv("places_s.csv"), d3.csv("schoolDistrict_s.csv"),d3.csv("county_s.csv"),d3.csv("congress_s.csv"),d3.csv("countySubdivision_s.csv")])
+	.then(function(d){
+		
+		for(var dataset in d){
+			
+			var color = colors[dataset]
+			
+			d3.select("#colorKey").append("div").html(files[dataset]).style("color",color)
+			.style("display","inline-block")
+			.style("margin","15px")
+			var layerData = d[dataset]
+			console.log(layerData)
+			for(var e in layerData){
+				var pop = layerData[e].pop
+				var placeName = layerData[e].name
+				var geoid = layerData[e].geoid
+				var lineData = [[0,400],[1,400],[2,yScale(pop)],[3,yScale(pop)]]
+				drawLine(lineData,svg,color,pop,placeName,geoid)
+			}
+		}
+				//
+		// var placesData = d[0]
+		// for(var r in placesData){
+		// 	var pop = placesData[r].pop
+		// 	var lineData = [[0,0],[1,pop*.2],[2,pop]]
+		// 	drawLine(lineData,svg,"black")
+		// }
+		//
+		// var schoolData = d[1]
+		// for(var r in schoolData){
+		// 	var pop = schoolData[r].pop
+		// 	var lineData = [[0,0],[1,pop*.2],[2,pop]]
+		// 	drawLine(lineData,svg,"red")
+		// }
+
+})
+
+function drawLine(lineData,svg,color,pop,placeName,geoid){
+	// Add the line
+	
+  var Gen = d3.line()
+    .x((p) => p.xpoint)
+    .y((p) => p.ypoint)
+    .curve(d3.curveCardinal);
+  	
+	svg.append("text")
+	.attr("x",xScale(3)+10)
+	.attr("y",yScale(pop))
+	.text(placeName+" "+pop)
+	.attr("id","label_geoid_"+geoid)
+	.attr("class","label")
+	.attr("fill",color)
+	.attr("opacity",0)
+	
+	svg.append("path")
+	  .datum(lineData)
+	  .attr("fill", "none")
+	.attr("id","geoid_"+geoid)
+	  .attr("stroke", color)
+		.attr("opacity",.05)
+	  .attr("stroke-width", 8)
+	.attr("stroke-linecap","round")
+	  .attr("d", d3.line().curve(d3.curveBasis)
+	    .x(function(d) { return xScale(d[0])})
+	    .y(function(d) { return d[1]})
+		)
+		.on("mouseover",function(d){
+			d3.select(this).attr("opacity",1)
+			var idName = d3.select(this).attr("id")
+			d3.select("#label_"+idName).attr("opacity",1)
+		})
+		.on("mouseout",function(d){
+			d3.select(this).attr("opacity",.1)
+			var idName = d3.select(this).attr("id")
+			d3.select("#label_"+idName).attr("opacity",0)
+		})
+	
+}
+
+</script>

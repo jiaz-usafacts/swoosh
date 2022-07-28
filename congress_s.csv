@@ -1,0 +1,438 @@
+geoid,name,pop
+5001600US0101,"Congressional District 1 (116th Congress), Alabama",546223
+5001600US0102,"Congressional District 2 (116th Congress), Alabama",513747
+5001600US0103,"Congressional District 3 (116th Congress), Alabama",550776
+5001600US0104,"Congressional District 4 (116th Congress), Alabama",516456
+5001600US0105,"Congressional District 5 (116th Congress), Alabama",563216
+5001600US0106,"Congressional District 6 (116th Congress), Alabama",527401
+5001600US0107,"Congressional District 7 (116th Congress), Alabama",513517
+5001600US0200,"Congressional District (at Large) (116th Congress), Alaska",533151
+5001600US0401,"Congressional District 1 (116th Congress), Arizona",579140
+5001600US0402,"Congressional District 2 (116th Congress), Arizona",555917
+5001600US0403,"Congressional District 3 (116th Congress), Arizona",498408
+5001600US0404,"Congressional District 4 (116th Congress), Arizona",646034
+5001600US0405,"Congressional District 5 (116th Congress), Arizona",601179
+5001600US0406,"Congressional District 6 (116th Congress), Arizona",603700
+5001600US0407,"Congressional District 7 (116th Congress), Arizona",472749
+5001600US0408,"Congressional District 8 (116th Congress), Arizona",595539
+5001600US0409,"Congressional District 9 (116th Congress), Arizona",584808
+5001600US0501,"Congressional District 1 (116th Congress), Arkansas",548521
+5001600US0502,"Congressional District 2 (116th Congress), Arkansas",576874
+5001600US0503,"Congressional District 3 (116th Congress), Arkansas",579984
+5001600US0504,"Congressional District 4 (116th Congress), Arkansas",530036
+5001600US0601,"Congressional District 1 (116th Congress), California",548314
+5001600US0602,"Congressional District 2 (116th Congress), California",531039
+5001600US0603,"Congressional District 3 (116th Congress), California",522479
+5001600US0604,"Congressional District 4 (116th Congress), California",577133
+5001600US0605,"Congressional District 5 (116th Congress), California",520065
+5001600US0606,"Congressional District 6 (116th Congress), California",519617
+5001600US0607,"Congressional District 7 (116th Congress), California",537108
+5001600US0608,"Congressional District 8 (116th Congress), California",473737
+5001600US0609,"Congressional District 9 (116th Congress), California",506465
+5001600US0610,"Congressional District 10 (116th Congress), California",491086
+5001600US0611,"Congressional District 11 (116th Congress), California",502739
+5001600US0612,"Congressional District 12 (116th Congress), California",584273
+5001600US0613,"Congressional District 13 (116th Congress), California",541697
+5001600US0614,"Congressional District 14 (116th Congress), California",501803
+5001600US0615,"Congressional District 15 (116th Congress), California",502500
+5001600US0616,"Congressional District 16 (116th Congress), California",423209
+5001600US0617,"Congressional District 17 (116th Congress), California",454565
+5001600US0618,"Congressional District 18 (116th Congress), California",486648
+5001600US0619,"Congressional District 19 (116th Congress), California",470847
+5001600US0620,"Congressional District 20 (116th Congress), California",446278
+5001600US0621,"Congressional District 21 (116th Congress), California",376921
+5001600US0622,"Congressional District 22 (116th Congress), California",485479
+5001600US0623,"Congressional District 23 (116th Congress), California",499637
+5001600US0624,"Congressional District 24 (116th Congress), California",510335
+5001600US0625,"Congressional District 25 (116th Congress), California",490670
+5001600US0626,"Congressional District 26 (116th Congress), California",483010
+5001600US0627,"Congressional District 27 (116th Congress), California",482244
+5001600US0628,"Congressional District 28 (116th Congress), California",489048
+5001600US0629,"Congressional District 29 (116th Congress), California",416537
+5001600US0630,"Congressional District 30 (116th Congress), California",529032
+5001600US0631,"Congressional District 31 (116th Congress), California",498759
+5001600US0632,"Congressional District 32 (116th Congress), California",456875
+5001600US0633,"Congressional District 33 (116th Congress), California",522362
+5001600US0634,"Congressional District 34 (116th Congress), California",416264
+5001600US0635,"Congressional District 35 (116th Congress), California",455488
+5001600US0636,"Congressional District 36 (116th Congress), California",538461
+5001600US0637,"Congressional District 37 (116th Congress), California",475186
+5001600US0638,"Congressional District 38 (116th Congress), California",475031
+5001600US0639,"Congressional District 39 (116th Congress), California",486371
+5001600US0640,"Congressional District 40 (116th Congress), California",334291
+5001600US0641,"Congressional District 41 (116th Congress), California",479421
+5001600US0642,"Congressional District 42 (116th Congress), California",565461
+5001600US0643,"Congressional District 43 (116th Congress), California",451030
+5001600US0644,"Congressional District 44 (116th Congress), California",405957
+5001600US0645,"Congressional District 45 (116th Congress), California",537433
+5001600US0646,"Congressional District 46 (116th Congress), California",419462
+5001600US0647,"Congressional District 47 (116th Congress), California",483829
+5001600US0648,"Congressional District 48 (116th Congress), California",513819
+5001600US0649,"Congressional District 49 (116th Congress), California",519217
+5001600US0650,"Congressional District 50 (116th Congress), California",524595
+5001600US0651,"Congressional District 51 (116th Congress), California",443525
+5001600US0652,"Congressional District 52 (116th Congress), California",560713
+5001600US0653,"Congressional District 53 (116th Congress), California",564095
+5001600US0801,"Congressional District 1 (116th Congress), Colorado",635916
+5001600US0802,"Congressional District 2 (116th Congress), Colorado",639136
+5001600US0803,"Congressional District 3 (116th Congress), Colorado",571465
+5001600US0804,"Congressional District 4 (116th Congress), Colorado",618377
+5001600US0805,"Congressional District 5 (116th Congress), Colorado",618627
+5001600US0806,"Congressional District 6 (116th Congress), Colorado",569294
+5001600US0807,"Congressional District 7 (116th Congress), Colorado",591395
+5001600US0901,"Congressional District 1 (116th Congress), Connecticut",519263
+5001600US0902,"Congressional District 2 (116th Congress), Connecticut",548326
+5001600US0903,"Congressional District 3 (116th Congress), Connecticut",545247
+5001600US0904,"Congressional District 4 (116th Congress), Connecticut",487562
+5001600US0905,"Congressional District 5 (116th Congress), Connecticut",519076
+5001600US1000,"Congressional District (at Large) (116th Congress), Delaware",725178
+5001600US1198,"Delegate District (at Large) (116th Congress), District of Columbia",536768
+5001600US1201,"Congressional District 1 (116th Congress), Florida",606302
+5001600US1202,"Congressional District 2 (116th Congress), Florida",561491
+5001600US1203,"Congressional District 3 (116th Congress), Florida",579748
+5001600US1204,"Congressional District 4 (116th Congress), Florida",625074
+5001600US1205,"Congressional District 5 (116th Congress), Florida",553978
+5001600US1206,"Congressional District 6 (116th Congress), Florida",630741
+5001600US1207,"Congressional District 7 (116th Congress), Florida",609432
+5001600US1208,"Congressional District 8 (116th Congress), Florida",615259
+5001600US1209,"Congressional District 9 (116th Congress), Florida",641755
+5001600US1210,"Congressional District 10 (116th Congress), Florida",535381
+5001600US1211,"Congressional District 11 (116th Congress), Florida",669669
+5001600US1212,"Congressional District 12 (116th Congress), Florida",625818
+5001600US1213,"Congressional District 13 (116th Congress), Florida",585038
+5001600US1214,"Congressional District 14 (116th Congress), Florida",571062
+5001600US1215,"Congressional District 15 (116th Congress), Florida",580626
+5001600US1216,"Congressional District 16 (116th Congress), Florida",665073
+5001600US1217,"Congressional District 17 (116th Congress), Florida",635931
+5001600US1218,"Congressional District 18 (116th Congress), Florida",604583
+5001600US1219,"Congressional District 19 (116th Congress), Florida",637525
+5001600US1220,"Congressional District 20 (116th Congress), Florida",491860
+5001600US1221,"Congressional District 21 (116th Congress), Florida",549008
+5001600US1222,"Congressional District 22 (116th Congress), Florida",549615
+5001600US1223,"Congressional District 23 (116th Congress), Florida",512459
+5001600US1224,"Congressional District 24 (116th Congress), Florida",464185
+5001600US1225,"Congressional District 25 (116th Congress), Florida",466682
+5001600US1226,"Congressional District 26 (116th Congress), Florida",481612
+5001600US1227,"Congressional District 27 (116th Congress), Florida",457408
+5001600US1301,"Congressional District 1 (116th Congress), Georgia",559876
+5001600US1302,"Congressional District 2 (116th Congress), Georgia",502891
+5001600US1303,"Congressional District 3 (116th Congress), Georgia",554271
+5001600US1304,"Congressional District 4 (116th Congress), Georgia",533857
+5001600US1305,"Congressional District 5 (116th Congress), Georgia",596247
+5001600US1306,"Congressional District 6 (116th Congress), Georgia",502565
+5001600US1307,"Congressional District 7 (116th Congress), Georgia",501852
+5001600US1308,"Congressional District 8 (116th Congress), Georgia",522995
+5001600US1309,"Congressional District 9 (116th Congress), Georgia",567736
+5001600US1310,"Congressional District 10 (116th Congress), Georgia",563658
+5001600US1311,"Congressional District 11 (116th Congress), Georgia",552348
+5001600US1312,"Congressional District 12 (116th Congress), Georgia",547340
+5001600US1313,"Congressional District 13 (116th Congress), Georgia",550568
+5001600US1314,"Congressional District 14 (116th Congress), Georgia",525633
+5001600US1501,"Congressional District 1 (116th Congress), Hawaii",518980
+5001600US1502,"Congressional District 2 (116th Congress), Hawaii",495055
+5001600US1601,"Congressional District 1 (116th Congress), Idaho",682493
+5001600US1602,"Congressional District 2 (116th Congress), Idaho",600137
+5001600US1701,"Congressional District 1 (116th Congress), Illinois",525671
+5001600US1702,"Congressional District 2 (116th Congress), Illinois",504853
+5001600US1703,"Congressional District 3 (116th Congress), Illinois",485828
+5001600US1704,"Congressional District 4 (116th Congress), Illinois",396371
+5001600US1705,"Congressional District 5 (116th Congress), Illinois",535070
+5001600US1706,"Congressional District 6 (116th Congress), Illinois",517458
+5001600US1707,"Congressional District 7 (116th Congress), Illinois",527605
+5001600US1708,"Congressional District 8 (116th Congress), Illinois",456651
+5001600US1709,"Congressional District 9 (116th Congress), Illinois",505966
+5001600US1710,"Congressional District 10 (116th Congress), Illinois",469258
+5001600US1711,"Congressional District 11 (116th Congress), Illinois",478947
+5001600US1712,"Congressional District 12 (116th Congress), Illinois",525580
+5001600US1713,"Congressional District 13 (116th Congress), Illinois",541694
+5001600US1714,"Congressional District 14 (116th Congress), Illinois",523833
+5001600US1715,"Congressional District 15 (116th Congress), Illinois",529276
+5001600US1716,"Congressional District 16 (116th Congress), Illinois",530970
+5001600US1717,"Congressional District 17 (116th Congress), Illinois",503019
+5001600US1718,"Congressional District 18 (116th Congress), Illinois",529986
+5001600US1801,"Congressional District 1 (116th Congress), Indiana",540076
+5001600US1802,"Congressional District 2 (116th Congress), Indiana",524091
+5001600US1803,"Congressional District 3 (116th Congress), Indiana",542756
+5001600US1804,"Congressional District 4 (116th Congress), Indiana",567896
+5001600US1805,"Congressional District 5 (116th Congress), Indiana",585141
+5001600US1806,"Congressional District 6 (116th Congress), Indiana",553631
+5001600US1807,"Congressional District 7 (116th Congress), Indiana",531047
+5001600US1808,"Congressional District 8 (116th Congress), Indiana",547306
+5001600US1809,"Congressional District 9 (116th Congress), Indiana",586412
+5001600US1901,"Congressional District 1 (116th Congress), Iowa",581804
+5001600US1902,"Congressional District 2 (116th Congress), Iowa",589622
+5001600US1903,"Congressional District 3 (116th Congress), Iowa",614259
+5001600US1904,"Congressional District 4 (116th Congress), Iowa",563102
+5001600US2001,"Congressional District 1 (116th Congress), Kansas",501367
+5001600US2002,"Congressional District 2 (116th Congress), Kansas",544073
+5001600US2003,"Congressional District 3 (116th Congress), Kansas",540910
+5001600US2004,"Congressional District 4 (116th Congress), Kansas",517398
+5001600US2101,"Congressional District 1 (116th Congress), Kentucky",555777
+5001600US2102,"Congressional District 2 (116th Congress), Kentucky",577344
+5001600US2103,"Congressional District 3 (116th Congress), Kentucky",548524
+5001600US2104,"Congressional District 4 (116th Congress), Kentucky",568729
+5001600US2105,"Congressional District 5 (116th Congress), Kentucky",534351
+5001600US2106,"Congressional District 6 (116th Congress), Kentucky",582777
+5001600US2201,"Congressional District 1 (116th Congress), Louisiana",588760
+5001600US2202,"Congressional District 2 (116th Congress), Louisiana",592763
+5001600US2203,"Congressional District 3 (116th Congress), Louisiana",579437
+5001600US2204,"Congressional District 4 (116th Congress), Louisiana",555133
+5001600US2205,"Congressional District 5 (116th Congress), Louisiana",554470
+5001600US2206,"Congressional District 6 (116th Congress), Louisiana",592809
+5001600US2301,"Congressional District 1 (116th Congress), Maine",550561
+5001600US2302,"Congressional District 2 (116th Congress), Maine",528209
+5001600US2401,"Congressional District 1 (116th Congress), Maryland",567020
+5001600US2402,"Congressional District 2 (116th Congress), Maryland",547348
+5001600US2403,"Congressional District 3 (116th Congress), Maryland",559105
+5001600US2404,"Congressional District 4 (116th Congress), Maryland",499522
+5001600US2405,"Congressional District 5 (116th Congress), Maryland",548323
+5001600US2406,"Congressional District 6 (116th Congress), Maryland",534386
+5001600US2407,"Congressional District 7 (116th Congress), Maryland",539189
+5001600US2408,"Congressional District 8 (116th Congress), Maryland",522028
+5001600US2501,"Congressional District 1 (116th Congress), Massachusetts",561563
+5001600US2502,"Congressional District 2 (116th Congress), Massachusetts",573313
+5001600US2503,"Congressional District 3 (116th Congress), Massachusetts",549542
+5001600US2504,"Congressional District 4 (116th Congress), Massachusetts",562422
+5001600US2505,"Congressional District 5 (116th Congress), Massachusetts",529999
+5001600US2506,"Congressional District 6 (116th Congress), Massachusetts",571911
+5001600US2507,"Congressional District 7 (116th Congress), Massachusetts",555533
+5001600US2508,"Congressional District 8 (116th Congress), Massachusetts",573152
+5001600US2509,"Congressional District 9 (116th Congress), Massachusetts",579757
+5001600US2601,"Congressional District 1 (116th Congress), Michigan",565370
+5001600US2602,"Congressional District 2 (116th Congress), Michigan",553948
+5001600US2603,"Congressional District 3 (116th Congress), Michigan",554738
+5001600US2604,"Congressional District 4 (116th Congress), Michigan",554656
+5001600US2605,"Congressional District 5 (116th Congress), Michigan",521742
+5001600US2606,"Congressional District 6 (116th Congress), Michigan",542562
+5001600US2607,"Congressional District 7 (116th Congress), Michigan",550964
+5001600US2608,"Congressional District 8 (116th Congress), Michigan",562613
+5001600US2609,"Congressional District 9 (116th Congress), Michigan",556032
+5001600US2610,"Congressional District 10 (116th Congress), Michigan",554418
+5001600US2611,"Congressional District 11 (116th Congress), Michigan",537952
+5001600US2612,"Congressional District 12 (116th Congress), Michigan",525725
+5001600US2613,"Congressional District 13 (116th Congress), Michigan",485588
+5001600US2614,"Congressional District 14 (116th Congress), Michigan",496156
+5001600US2701,"Congressional District 1 (116th Congress), Minnesota",497765
+5001600US2702,"Congressional District 2 (116th Congress), Minnesota",517880
+5001600US2703,"Congressional District 3 (116th Congress), Minnesota",528462
+5001600US2704,"Congressional District 4 (116th Congress), Minnesota",516588
+5001600US2705,"Congressional District 5 (116th Congress), Minnesota",535070
+5001600US2706,"Congressional District 6 (116th Congress), Minnesota",533104
+5001600US2707,"Congressional District 7 (116th Congress), Minnesota",501373
+5001600US2708,"Congressional District 8 (116th Congress), Minnesota",527314
+5001600US2801,"Congressional District 1 (116th Congress), Mississippi",579478
+5001600US2802,"Congressional District 2 (116th Congress), Mississippi",519040
+5001600US2803,"Congressional District 3 (116th Congress), Mississippi",560442
+5001600US2804,"Congressional District 4 (116th Congress), Mississippi",587363
+5001600US2901,"Congressional District 1 (116th Congress), Missouri",547921
+5001600US2902,"Congressional District 2 (116th Congress), Missouri",576008
+5001600US2903,"Congressional District 3 (116th Congress), Missouri",608065
+5001600US2904,"Congressional District 4 (116th Congress), Missouri",590595
+5001600US2905,"Congressional District 5 (116th Congress), Missouri",579431
+5001600US2906,"Congressional District 6 (116th Congress), Missouri",586958
+5001600US2907,"Congressional District 7 (116th Congress), Missouri",594430
+5001600US2908,"Congressional District 8 (116th Congress), Missouri",566910
+5001600US3000,"Congressional District (at Large) (116th Congress), Montana",831760
+5001600US3101,"Congressional District 1 (116th Congress), Nebraska",475365
+5001600US3102,"Congressional District 2 (116th Congress), Nebraska",472694
+5001600US3103,"Congressional District 3 (116th Congress), Nebraska",440891
+5001600US3201,"Congressional District 1 (116th Congress), Nevada",423658
+5001600US3202,"Congressional District 2 (116th Congress), Nevada",536143
+5001600US3203,"Congressional District 3 (116th Congress), Nevada",630813
+5001600US3204,"Congressional District 4 (116th Congress), Nevada",521318
+5001600US3301,"Congressional District 1 (116th Congress), New Hampshire",540722
+5001600US3302,"Congressional District 2 (116th Congress), New Hampshire",529493
+5001600US3401,"Congressional District 1 (116th Congress), New Jersey",539844
+5001600US3402,"Congressional District 2 (116th Congress), New Jersey",528293
+5001600US3403,"Congressional District 3 (116th Congress), New Jersey",568535
+5001600US3404,"Congressional District 4 (116th Congress), New Jersey",536357
+5001600US3405,"Congressional District 5 (116th Congress), New Jersey",538231
+5001600US3406,"Congressional District 6 (116th Congress), New Jersey",502050
+5001600US3407,"Congressional District 7 (116th Congress), New Jersey",520886
+5001600US3408,"Congressional District 8 (116th Congress), New Jersey",420965
+5001600US3409,"Congressional District 9 (116th Congress), New Jersey",476041
+5001600US3410,"Congressional District 10 (116th Congress), New Jersey",506649
+5001600US3411,"Congressional District 11 (116th Congress), New Jersey",527170
+5001600US3412,"Congressional District 12 (116th Congress), New Jersey",505109
+5001600US3501,"Congressional District 1 (116th Congress), New Mexico",510328
+5001600US3502,"Congressional District 2 (116th Congress), New Mexico",492566
+5001600US3503,"Congressional District 3 (116th Congress), New Mexico",519277
+5001600US3601,"Congressional District 1 (116th Congress), New York",526240
+5001600US3602,"Congressional District 2 (116th Congress), New York",512037
+5001600US3603,"Congressional District 3 (116th Congress), New York",536640
+5001600US3604,"Congressional District 4 (116th Congress), New York",512546
+5001600US3605,"Congressional District 5 (116th Congress), New York",495842
+5001600US3606,"Congressional District 6 (116th Congress), New York",434571
+5001600US3607,"Congressional District 7 (116th Congress), New York",443176
+5001600US3608,"Congressional District 8 (116th Congress), New York",545882
+5001600US3609,"Congressional District 9 (116th Congress), New York",481363
+5001600US3610,"Congressional District 10 (116th Congress), New York",498723
+5001600US3611,"Congressional District 11 (116th Congress), New York",498830
+5001600US3612,"Congressional District 12 (116th Congress), New York",552090
+5001600US3613,"Congressional District 13 (116th Congress), New York",485528
+5001600US3614,"Congressional District 14 (116th Congress), New York",401473
+5001600US3615,"Congressional District 15 (116th Congress), New York",421642
+5001600US3616,"Congressional District 16 (116th Congress), New York",506330
+5001600US3617,"Congressional District 17 (116th Congress), New York",495562
+5001600US3618,"Congressional District 18 (116th Congress), New York",530428
+5001600US3619,"Congressional District 19 (116th Congress), New York",555732
+5001600US3620,"Congressional District 20 (116th Congress), New York",560724
+5001600US3621,"Congressional District 21 (116th Congress), New York",546491
+5001600US3622,"Congressional District 22 (116th Congress), New York",533819
+5001600US3623,"Congressional District 23 (116th Congress), New York",540476
+5001600US3624,"Congressional District 24 (116th Congress), New York",539232
+5001600US3625,"Congressional District 25 (116th Congress), New York",547133
+5001600US3626,"Congressional District 26 (116th Congress), New York",540265
+5001600US3627,"Congressional District 27 (116th Congress), New York",568055
+5001600US3701,"Congressional District 1 (116th Congress), North Carolina",570191
+5001600US3702,"Congressional District 2 (116th Congress), North Carolina",636164
+5001600US3703,"Congressional District 3 (116th Congress), North Carolina",581048
+5001600US3704,"Congressional District 4 (116th Congress), North Carolina",610536
+5001600US3705,"Congressional District 5 (116th Congress), North Carolina",583346
+5001600US3706,"Congressional District 6 (116th Congress), North Carolina",581560
+5001600US3707,"Congressional District 7 (116th Congress), North Carolina",621515
+5001600US3708,"Congressional District 8 (116th Congress), North Carolina",591696
+5001600US3709,"Congressional District 9 (116th Congress), North Carolina",574114
+5001600US3710,"Congressional District 10 (116th Congress), North Carolina",591040
+5001600US3711,"Congressional District 11 (116th Congress), North Carolina",607938
+5001600US3712,"Congressional District 12 (116th Congress), North Carolina",599115
+5001600US3713,"Congressional District 13 (116th Congress), North Carolina",581381
+5001600US3800,"Congressional District (at Large) (116th Congress), North Dakota",567545
+5001600US3901,"Congressional District 1 (116th Congress), Ohio",550781
+5001600US3902,"Congressional District 2 (116th Congress), Ohio",555323
+5001600US3903,"Congressional District 3 (116th Congress), Ohio",565727
+5001600US3904,"Congressional District 4 (116th Congress), Ohio",550776
+5001600US3905,"Congressional District 5 (116th Congress), Ohio",553726
+5001600US3906,"Congressional District 6 (116th Congress), Ohio",549999
+5001600US3907,"Congressional District 7 (116th Congress), Ohio",553091
+5001600US3908,"Congressional District 8 (116th Congress), Ohio",547822
+5001600US3909,"Congressional District 9 (116th Congress), Ohio",520939
+5001600US3910,"Congressional District 10 (116th Congress), Ohio",552940
+5001600US3911,"Congressional District 11 (116th Congress), Ohio",525057
+5001600US3912,"Congressional District 12 (116th Congress), Ohio",588304
+5001600US3913,"Congressional District 13 (116th Congress), Ohio",560255
+5001600US3914,"Congressional District 14 (116th Congress), Ohio",553234
+5001600US3915,"Congressional District 15 (116th Congress), Ohio",594787
+5001600US3916,"Congressional District 16 (116th Congress), Ohio",556708
+5001600US4001,"Congressional District 1 (116th Congress), Oklahoma",574642
+5001600US4002,"Congressional District 2 (116th Congress), Oklahoma",565049
+5001600US4003,"Congressional District 3 (116th Congress), Oklahoma",568862
+5001600US4004,"Congressional District 4 (116th Congress), Oklahoma",594411
+5001600US4005,"Congressional District 5 (116th Congress), Oklahoma",572095
+5001600US4101,"Congressional District 1 (116th Congress), Oregon",617472
+5001600US4102,"Congressional District 2 (116th Congress), Oregon",638108
+5001600US4103,"Congressional District 3 (116th Congress), Oregon",641510
+5001600US4104,"Congressional District 4 (116th Congress), Oregon",650640
+5001600US4105,"Congressional District 5 (116th Congress), Oregon",614474
+5001600US4201,"Congressional District 1 (116th Congress), Pennsylvania",542506
+5001600US4202,"Congressional District 2 (116th Congress), Pennsylvania",491451
+5001600US4203,"Congressional District 3 (116th Congress), Pennsylvania",573719
+5001600US4204,"Congressional District 4 (116th Congress), Pennsylvania",552061
+5001600US4205,"Congressional District 5 (116th Congress), Pennsylvania",525272
+5001600US4206,"Congressional District 6 (116th Congress), Pennsylvania",533141
+5001600US4207,"Congressional District 7 (116th Congress), Pennsylvania",550950
+5001600US4208,"Congressional District 8 (116th Congress), Pennsylvania",543310
+5001600US4209,"Congressional District 9 (116th Congress), Pennsylvania",556670
+5001600US4210,"Congressional District 10 (116th Congress), Pennsylvania",558693
+5001600US4211,"Congressional District 11 (116th Congress), Pennsylvania",555086
+5001600US4212,"Congressional District 12 (116th Congress), Pennsylvania",552013
+5001600US4213,"Congressional District 13 (116th Congress), Pennsylvania",548308
+5001600US4214,"Congressional District 14 (116th Congress), Pennsylvania",545910
+5001600US4215,"Congressional District 15 (116th Congress), Pennsylvania",543052
+5001600US4216,"Congressional District 16 (116th Congress), Pennsylvania",537685
+5001600US4217,"Congressional District 17 (116th Congress), Pennsylvania",551560
+5001600US4218,"Congressional District 18 (116th Congress), Pennsylvania",548814
+5001600US4401,"Congressional District 1 (116th Congress), Rhode Island",391053
+5001600US4402,"Congressional District 2 (116th Congress), Rhode Island",409745
+5001600US4501,"Congressional District 1 (116th Congress), South Carolina",615755
+5001600US4502,"Congressional District 2 (116th Congress), South Carolina",541862
+5001600US4503,"Congressional District 3 (116th Congress), South Carolina",540303
+5001600US4504,"Congressional District 4 (116th Congress), South Carolina",555462
+5001600US4505,"Congressional District 5 (116th Congress), South Carolina",553076
+5001600US4506,"Congressional District 6 (116th Congress), South Carolina",510628
+5001600US4507,"Congressional District 7 (116th Congress), South Carolina",575255
+5001600US4600,"Congressional District (at Large) (116th Congress), South Dakota",653394
+5001600US4701,"Congressional District 1 (116th Congress), Tennessee",570495
+5001600US4702,"Congressional District 2 (116th Congress), Tennessee",587665
+5001600US4703,"Congressional District 3 (116th Congress), Tennessee",573580
+5001600US4704,"Congressional District 4 (116th Congress), Tennessee",596604
+5001600US4705,"Congressional District 5 (116th Congress), Tennessee",564374
+5001600US4706,"Congressional District 6 (116th Congress), Tennessee",608091
+5001600US4707,"Congressional District 7 (116th Congress), Tennessee",590210
+5001600US4708,"Congressional District 8 (116th Congress), Tennessee",536275
+5001600US4709,"Congressional District 9 (116th Congress), Tennessee",502286
+5001600US4801,"Congressional District 1 (116th Congress), Texas",518180
+5001600US4802,"Congressional District 2 (116th Congress), Texas",519981
+5001600US4803,"Congressional District 3 (116th Congress), Texas",584690
+5001600US4804,"Congressional District 4 (116th Congress), Texas",562550
+5001600US4805,"Congressional District 5 (116th Congress), Texas",495961
+5001600US4806,"Congressional District 6 (116th Congress), Texas",554164
+5001600US4807,"Congressional District 7 (116th Congress), Texas",466858
+5001600US4808,"Congressional District 8 (116th Congress), Texas",600690
+5001600US4809,"Congressional District 9 (116th Congress), Texas",434566
+5001600US4810,"Congressional District 10 (116th Congress), Texas",604700
+5001600US4811,"Congressional District 11 (116th Congress), Texas",543743
+5001600US4812,"Congressional District 12 (116th Congress), Texas",584149
+5001600US4813,"Congressional District 13 (116th Congress), Texas",495640
+5001600US4814,"Congressional District 14 (116th Congress), Texas",532061
+5001600US4815,"Congressional District 15 (116th Congress), Texas",450561
+5001600US4816,"Congressional District 16 (116th Congress), Texas",476360
+5001600US4817,"Congressional District 17 (116th Congress), Texas",558009
+5001600US4818,"Congressional District 18 (116th Congress), Texas",489098
+5001600US4819,"Congressional District 19 (116th Congress), Texas",516199
+5001600US4820,"Congressional District 20 (116th Congress), Texas",547526
+5001600US4821,"Congressional District 21 (116th Congress), Texas",628280
+5001600US4822,"Congressional District 22 (116th Congress), Texas",610720
+5001600US4823,"Congressional District 23 (116th Congress), Texas",510863
+5001600US4824,"Congressional District 24 (116th Congress), Texas",529495
+5001600US4825,"Congressional District 25 (116th Congress), Texas",596070
+5001600US4826,"Congressional District 26 (116th Congress), Texas",625355
+5001600US4827,"Congressional District 27 (116th Congress), Texas",523961
+5001600US4828,"Congressional District 28 (116th Congress), Texas",441163
+5001600US4829,"Congressional District 29 (116th Congress), Texas",394689
+5001600US4830,"Congressional District 30 (116th Congress), Texas",476002
+5001600US4831,"Congressional District 31 (116th Congress), Texas",625582
+5001600US4832,"Congressional District 32 (116th Congress), Texas",497892
+5001600US4833,"Congressional District 33 (116th Congress), Texas",354913
+5001600US4834,"Congressional District 34 (116th Congress), Texas",429232
+5001600US4835,"Congressional District 35 (116th Congress), Texas",570039
+5001600US4836,"Congressional District 36 (116th Congress), Texas",525600
+5001600US4901,"Congressional District 1 (116th Congress), Utah",529838
+5001600US4902,"Congressional District 2 (116th Congress), Utah",534997
+5001600US4903,"Congressional District 3 (116th Congress), Utah",523751
+5001600US4904,"Congressional District 4 (116th Congress), Utah",545663
+5001600US5000,"Congressional District (at Large) (116th Congress), Vermont",498705
+5001600US5101,"Congressional District 1 (116th Congress), Virginia",592356
+5001600US5102,"Congressional District 2 (116th Congress), Virginia",553005
+5001600US5103,"Congressional District 3 (116th Congress), Virginia",567916
+5001600US5104,"Congressional District 4 (116th Congress), Virginia",589257
+5001600US5105,"Congressional District 5 (116th Congress), Virginia",579655
+5001600US5106,"Congressional District 6 (116th Congress), Virginia",585724
+5001600US5107,"Congressional District 7 (116th Congress), Virginia",579534
+5001600US5108,"Congressional District 8 (116th Congress), Virginia",535969
+5001600US5109,"Congressional District 9 (116th Congress), Virginia",567777
+5001600US5110,"Congressional District 10 (116th Congress), Virginia",563408
+5001600US5111,"Congressional District 11 (116th Congress), Virginia",512022
+5001600US5301,"Congressional District 1 (116th Congress), Washington",533647
+5001600US5302,"Congressional District 2 (116th Congress), Washington",566650
+5001600US5303,"Congressional District 3 (116th Congress), Washington",556214
+5001600US5304,"Congressional District 4 (116th Congress), Washington",446137
+5001600US5305,"Congressional District 5 (116th Congress), Washington",562834
+5001600US5306,"Congressional District 6 (116th Congress), Washington",567917
+5001600US5307,"Congressional District 7 (116th Congress), Washington",609219
+5001600US5308,"Congressional District 8 (116th Congress), Washington",524468
+5001600US5309,"Congressional District 9 (116th Congress), Washington",481044
+5001600US5310,"Congressional District 10 (116th Congress), Washington",560905
+5001600US5401,"Congressional District 1 (116th Congress), West Virginia",482965
+5001600US5402,"Congressional District 2 (116th Congress), West Virginia",485281
+5001600US5403,"Congressional District 3 (116th Congress), West Virginia",452043
+5001600US5501,"Congressional District 1 (116th Congress), Wisconsin",540501
+5001600US5502,"Congressional District 2 (116th Congress), Wisconsin",579336
+5001600US5503,"Congressional District 3 (116th Congress), Wisconsin",565661
+5001600US5504,"Congressional District 4 (116th Congress), Wisconsin",487730
+5001600US5505,"Congressional District 5 (116th Congress), Wisconsin",570227
+5001600US5506,"Congressional District 6 (116th Congress), Wisconsin",553146
+5001600US5507,"Congressional District 7 (116th Congress), Wisconsin",556088
+5001600US5508,"Congressional District 8 (116th Congress), Wisconsin",560199
+5001600US5600,"Congressional District (at Large) (116th Congress), Wyoming",434852
+5001600US7298,"Resident Commissioner District (at Large) (116th Congress), Puerto Rico",2579596
